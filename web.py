@@ -35,7 +35,8 @@ if page == "All Players":
         pitchers = pitchers.groupby(by=["Name","Team", "PlayerID"],as_index=False).agg({"WAR":"sum","FIP":"mean","ERA":"mean","IP":"sum","K/9":"mean","BB/9":"mean","HR/9":"mean","SO":"sum","BB":"sum","HR":"sum","Age": "min","temp":"max"})
         pitchers["Age"] = pitchers["Age"].astype(str) + "-" + pitchers["temp"].astype(str)
         pitchers = pitchers[["Name","Team","Age","WAR","FIP","ERA","IP","K/9","BB/9","HR/9","SO","BB","HR","PlayerID"]]
-    st.dataframe(pitchers.sort_values(by = "WAR",ascending = False).style.format({"FIP":"{:.2f}","ERA":"{:.2f}","K/9":"{:.2f}","BB/9":"{:.2f}","HR/9":"{:.2f}","WAR":"{:.1f}","IP":"{:.0f}","SO":"{:.0f}","HR":"{:.0f}","BB":"{:.0f}"}),height = 800)
+    with st.spinner("Loading sheet... may be slow at first"):
+        st.dataframe(pitchers.sort_values(by = "WAR",ascending = False).style.format({"FIP":"{:.2f}","ERA":"{:.2f}","K/9":"{:.2f}","BB/9":"{:.2f}","HR/9":"{:.2f}","WAR":"{:.1f}","IP":"{:.0f}","SO":"{:.0f}","HR":"{:.0f}","BB":"{:.0f}"}),height = 800)
 
     st.download_button("Download as CSV",data = pitchers.to_csv(),file_name="Summary Sheet.csv")
 
