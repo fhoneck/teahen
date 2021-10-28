@@ -11,8 +11,8 @@ if page == "All Players":
 
     pitchers = pd.read_csv("TRY THIS.csv")
     col1, col2, col3, col4 = st.columns([2,1,1,1])
-    years = col1.slider("Seasons",2022,2035,(2022,2030))
-    warlimit = col2.number_input("WAR Minimum",-1.0,0.0,-0.5,0.1)
+    years = col1.slider("Seasons",2022,2035,(2022,2024))
+    warlimit = col2.number_input("WAR Minimum",-1.0,0.0,0.0,0.1)
     teams = list(set(list(pitchers["Team"].astype(str))))
     teams.append(" Any")
     teams = sorted(teams)
