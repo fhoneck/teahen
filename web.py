@@ -11,7 +11,7 @@ if page == "All Players":
 
     pitchers = pd.read_csv("TRY THIS.csv")
     with st.form(key="columns_in_form"):
-        col1, col2, col3, col4,col5 = st.columns([2,1,1,1,1])
+        col1, col2, col3, col4 = st.columns([2,1,1,1])
         years = col1.slider("Seasons",2022,2035,(2022,2023))
         warlimit = col2.number_input("WAR Minimum",-1.0,0.0,0.0,0.1)
         teams = list(set(list(pitchers["Team"].astype(str))))
@@ -19,7 +19,7 @@ if page == "All Players":
         teams = sorted(teams)
         team = col3.selectbox("Team",teams)
         totalstats = col4.radio("Leaderboard",("Season","Total"))
-        submitted = col5.form_submit_button("Submit")
+        st.form_submit_button("Submit")
     
 
 
@@ -37,7 +37,7 @@ if page == "All Players":
         pitchers = pitchers.groupby(by=["Name","Team", "PlayerID"],as_index=False).agg({"WAR":"sum","FIP":"mean","ERA":"mean","IP":"sum","K/9":"mean","BB/9":"mean","HR/9":"mean","SO":"sum","BB":"sum","HR":"sum","Age": "min","temp":"max"})
         pitchers["Age"] = pitchers["Age"].astype(str) + "-" + pitchers["temp"].astype(str)
         pitchers = pitchers[["Name","Team","Age","WAR","FIP","ERA","IP","K/9","BB/9","HR/9","SO","BB","HR","PlayerID"]]
-    with st.spinner("Loading sheet... may be slow with many rows"):
+    with st.spinner("Loading sheet... may be slow at first"):
         st.dataframe(pitchers.sort_values(by = "WAR",ascending = False).style.format({"FIP":"{:.2f}","ERA":"{:.2f}","K/9":"{:.2f}","BB/9":"{:.2f}","HR/9":"{:.2f}","WAR":"{:.1f}","IP":"{:.0f}","SO":"{:.0f}","HR":"{:.0f}","BB":"{:.0f}"}),height = 800)
 
     st.download_button("Download as CSV",data = pitchers.to_csv(),file_name="Summary Sheet.csv")
