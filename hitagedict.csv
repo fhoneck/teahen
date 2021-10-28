@@ -1,0 +1,5022 @@
+Name,playerid,Age
+Juan Soto,20123,23
+Fernando Tatis Jr.,19709,23
+Mike Trout,10155,30
+Ronald Acuna Jr.,18401,24
+Vladimir Guerrero Jr.,19611,23
+Aaron Judge,15640,30
+Carlos Correa,14162,27
+Jose Ramirez,13510,29
+Alex Bregman,17678,28
+Mookie Betts,13611,29
+Wander Franco,23667,21
+Corey Seager,13624,28
+Byron Buxton,14161,28
+Trea Turner,16252,29
+Luis Robert,20043,24
+Rafael Devers,17350,25
+Oneil Cruz,21711,23
+Manny Machado,11493,29
+Anthony Rendon,12861,32
+Bryce Harper,11579,29
+Bo Bichette,19612,24
+Matt Olson,14344,28
+Yasmani Grandal,11368,33
+Brandon Lowe,18882,27
+Francisco Lindor,12916,28
+Kyle Tucker,18345,25
+Nolan Arenado,9777,31
+Jose Altuve,5417,32
+Xander Bogaerts,12161,29
+Yordan Alvarez,19556,25
+Freddie Freeman,5361,32
+Brandon Nimmo,12927,29
+Max Muncy,13301,31
+Marcus Semien,12533,31
+Yoan Moncada,17232,27
+Mervyl Melendez,sa3004139,23
+Ozzie Albies,16556,25
+Sean Murphy,19352,27
+Pete Alonso,19251,27
+Steven Kwan,sa3008536,24
+Will Smith,19197,27
+Ketel Marte,13613,28
+Buster Posey,9166,35
+Gleyber Torres,16997,25
+Robert Witt,sa3011225,22
+Bryan Reynolds,19326,27
+Joshua Jung,sa3011468,24
+Joey Gallo,14128,28
+Matt Chapman,16505,29
+Josh Smith,sa3011703,24
+Shohei Ohtani,19755,27
+Giancarlo Stanton,4949,32
+Paul Goldschmidt,9218,34
+Trevor Story,12564,29
+Adley Rutschman,sa3011643,24
+Riley Greene,sa3010694,21
+Harrison Bader,18030,28
+George Springer,12856,32
+Tyler O'Neill,15711,27
+Trent Grisham,18564,25
+Starling Marte,9241,33
+Miguel Vargas,sa3006896,22
+Alejandro Kirk,22581,23
+Ramon Laureano,17128,27
+Justin Turner,5235,37
+J.T. Realmuto,11739,31
+Austin Riley,18360,25
+Mike Zunino,13265,31
+Willy Adames,15986,26
+Yandy Diaz,16578,30
+Abraham Toro,19844,25
+Jonathan India,21523,25
+Danny Jansen,16535,27
+Jonah Heim,16930,27
+Jake Cronenworth,18036,28
+Jose Miranda,sa917952,24
+Austin Nola,15941,32
+Anthony Rizzo,3473,32
+Jorge Polanco,13152,28
+Max Stassi,10059,31
+Christian Yelich,11477,30
+Tim Anderson,15172,29
+Manny Pina,2829,35
+Luis Urias,16622,25
+Elehuris Montero,sa872477,23
+Jake Burger,22275,26
+DJ LeMahieu,9874,33
+Keibert Ruiz,19610,23
+Aaron Hicks,5297,32
+Julio Rodriguez,sa3005720,21
+Paul DeJong,18015,28
+J.P. Crawford,15491,27
+Josh Donaldson,5038,36
+Cody Bellinger,15998,26
+Brandon Crawford,5343,35
+Jesse Winker,13590,28
+Jacob Stallings,13723,32
+Amed Rosario,15518,26
+Alek Thomas,sa3006892,22
+Cal Raleigh,21534,25
+Randy Arozarena,19290,27
+Luis Arraez,18568,25
+Brennen Davis,sa3007876,22
+Michael Conforto,16376,29
+Ty France,17982,27
+Cedric Mullins II,17929,27
+Manuel Margot,14712,27
+Kyle Schwarber,16478,29
+Richard Palacios,sa3006908,25
+Jeff McNeil,15362,30
+Max Kepler,12144,29
+Enrique Hernandez,10472,30
+Travis d'Arnaud,7739,33
+Gabriel Moreno,sa3003226,22
+Michael Brantley,4106,35
+Kyle Higashioka,5517,32
+Jeimer Candelario,13621,28
+Ke'Bryan Hayes,18577,25
+Alex Verdugo,17027,26
+Reese McGuire,15674,27
+Luis Campusano,22217,23
+Bryson Stott,sa3011443,24
+Kolten Wong,12532,31
+Isaac Paredes,20036,23
+Gavin Lux,19955,24
+Romy Gonzalez,21562,25
+Ian Happ,17919,27
+Spencer Torkelson,sa3014504,22
+Jared Walsh,18607,28
+Eloy Jimenez,17484,25
+Tony Kemp,14894,30
+Tommy La Stella,12371,33
+Nolan Jones,sa917941,24
+Chris Taylor,13757,31
+Omar Narvaez,13338,30
+Austin Shenton,sa3009869,24
+J.D. Davis,16219,29
+Mark Canha,11445,33
+David Freitas,10619,33
+Mark Vientos,sa3004720,22
+Miguel Rojas,7802,33
+Austin Barnes,12158,32
+Tommy Pham,2967,34
+Gabriel Arias,sa3004047,22
+Austin Allen,18083,28
+Lorenzo Cain,9077,36
+Carson Kelly,13620,27
+Jay Proctor,sa876187,25
+Mitch Garver,15161,31
+Adalberto Mondesi,13769,26
+Tommy Edman,19470,27
+Jean Segura,5933,32
+Rhys Hoskins,16472,29
+Nolan Gorman,sa3007017,22
+Jesus Quiroz,sa596560,30
+Christopher Martin,sa3014454,23
+Brendan Donovan,sa3006675,25
+Ryan Kreidler,sa3010587,24
+Austin Meadows,15672,27
+Myles Straw,17620,27
+Edmund Burdick,sa3009876,25
+Dylan Carlson,20126,23
+Nick Solak,19294,27
+Shea Langeliers,sa3010329,24
+Vincent Pasquantino,sa1115762,24
+Tyler Stephenson,17988,25
+Edmundo Sosa,17022,26
+Cesar Hernandez,10556,32
+Nelson Cruz,2434,41
+Kevin Plawecki,13807,31
+Nick Madrigal,20521,25
+George Valera,sa3006872,21
+Oswald Peraza,sa3003305,22
+Cal Stevenson,sa3006871,25
+Whit Merrifield,11281,33
+Taylor Walls,22458,25
+Brendon Davis,sa875089,24
+Jeremy Pena,sa876320,24
+Michael Stefanic,sa3008479,26
+Ryan Jeffers,24618,25
+Jordan Westburg,sa3014499,23
+Kevin Kiermaier,11038,32
+Bryan Lavastida,sa3006917,23
+Andrelton Simmons,10847,32
+Josh Lowe,19953,24
+Willson Contreras,11609,30
+Cam Gallagher,12981,29
+Andres Gimenez,19950,23
+Ben Rortvedt,20287,24
+Joey Wendle,13853,32
+Dansby Swanson,18314,28
+Donovan Walton,19314,28
+Kris Bryant,15429,30
+Daulton Varsho,19918,25
+Michael Busch,sa3011540,24
+Orlando Arcia,13185,27
+Avisail Garcia,5760,31
+Evan Longoria,9368,36
+Javier Baez,12979,29
+Xavier Fernandez,sa737922,26
+Spencer Steer,sa3010586,24
+Nicky Lopez,19339,27
+Mitch Haniger,14274,31
+Johan Camargo,14950,28
+Nico Hoerner,21479,25
+Brandon Belt,10264,34
+Marcell Ozuna,10324,31
+Jazz Chisholm Jr.,20454,24
+Francisco Mejia,16403,26
+Brian Anderson,18289,29
+Ryan McMahon,15112,27
+Isiah Kiner-Falefa,16512,27
+Jordan Luplow,16424,28
+Andrew Benintendi,17901,27
+Ha-seong Kim,27506,26
+Roberto Perez,2900,33
+Justin Foscue,sa3014527,23
+Austin Hays,19363,26
+Anthony Volpe,sa3010868,21
+Brendan Rodgers,17907,25
+Rob Brantly,10655,32
+Nate Lowe,19566,26
+Didi Gregorius,6012,32
+Adam Frazier,15223,30
+Brett Baty,sa3010869,22
+Santiago Espinal,19997,27
+Mike Yastrzemski,14854,31
+Yonny Hernandez,19432,24
+Luis Rengifo,19858,25
+Jordan Groshans,sa3006893,22
+Kyle Seager,9785,34
+Christian Vazquez,9774,31
+Jason Castro,8722,35
+David Villar,sa3007063,25
+Jose Abreu,15676,35
+Travis Swaggerty,sa3007512,24
+Austin Hedges,12976,29
+Ramon Urias,18795,28
+Jarred Kelenic,22558,22
+Jack Larsen,sa3004840,27
+Kyle Lewis,19508,26
+Tyler Freeman,sa3004755,23
+Ji-Man Choi,5452,31
+Ivan Herrera,sa3003191,22
+Jose Trevino,16725,29
+Ronaldo Hernandez,sa881850,24
+Franklin Barreto,15519,26
+Chris Gittens,18482,28
+Austin Slater,16153,29
+Alex Call,sa913343,27
+William Brennan,sa3010039,24
+Hoy Park,18027,26
+Jason Vosler,16686,28
+Odubel Herrera,11476,30
+Juan Yepez,sa877505,24
+Yadier Molina,7007,39
+Chad Pinder,15191,30
+Vidal Brujan,20536,24
+Franmil Reyes,14566,26
+Jesus Aguilar,11342,32
+Luke Voit,14811,31
+Nicholas Pratto,sa3004138,23
+Salvador Perez,7304,32
+Logan O'Hoppe,sa3007519,22
+Carlos Perez,10642,31
+Garrett Mitchell,sa3014438,23
+Brayan Rocchio,sa3005898,21
+Teoscar Hernandez,13066,29
+Scott Manea,sa829837,26
+Raffy Lopez,12606,#N/A
+Kevin Smith,20242,25
+Thairo Estrada,16426,26
+Jamie Westbrook,sa737824,27
+Garrett Cooper,15279,31
+Tomas Nido,13755,28
+Estevan Florial,19151,24
+Jose Iglesias,10231,32
+Jose Barrero,23378,24
+Clifton Kennedy,sa3004617,23
+Miles Mastrobuoni,sa918318,26
+Connor Joe,16572,29
+Alex Guerrero,15670,#N/A
+Lucas Berryhill,sa3011587,24
+Travis Blankenhorn,18395,25
+Donny Sands,sa875201,26
+Joshua Breaux,sa3008051,24
+Oscar Gonzalez,sa872782,24
+Taylor Ward,17548,28
+A.J. Pollock,9256,34
+Gregory Jones,sa3010151,24
+Jed Lowrie,4418,38
+Andrew Vaughn,26197,24
+Eguy Rosario,sa917140,22
+Yairo Munoz,16313,27
+J.D. Martinez,6184,34
+Akil Baddoo,22168,23
+Yuli Gurriel,19198,38
+Nick Castellanos,11737,30
+Leslie Thompson,sa3004140,24
+Gary Sanchez,11442,29
+Rylan Bannon,sa3004162,26
+Nick Fortes,21538,25
+Nick Senzel,19293,27
+Wilmer Flores,5827,30
+Patrick Mazeika,18142,28
+Lane Thomas,16939,26
+Rusney Castillo,17016,#N/A
+Cole MacLaren,sa3011402,25
+James Govern,sa3010166,25
+Victor Caratini,14968,28
+Matt Thaiss,19318,27
+Xavier Edwards,sa3007018,22
+Joseph Perez,sa3006868,22
+Patrick Frick,sa3009891,25
+Miguel Andujar,15878,27
+Connor Wong,19896,26
+David Fletcher,17992,28
+Ryan Mountcastle,18373,25
+Brandon Marsh,20202,24
+Josh Bell,13145,29
+Jantzen Witte,sa738324,32
+Wilson Ramos,1433,34
+Tom Murphy,13499,31
+Korey Lee,sa3010034,23
+Hunter Feduccia,sa3007872,25
+Joshua Morgan,sa828797,26
+Payton Henry,22164,25
+Kyle Stowers,sa1115829,24
+Luis Guillorme,16451,27
+Hunter Renfroe,15464,30
+Lorenzo Cedrola,sa872850,24
+Yan Gomes,9627,34
+Carter Kieboom,19958,24
+C.J. Cron,12546,32
+Rene Pinto,sa826668,25
+Brett Phillips,14735,28
+Leody Taveras,18900,23
+James Ritchie,sa829058,29
+Carlos Perez,sa828577,25
+Yolbert Sanchez,sa3011471,25
+Jake Meyers,20308,26
+Michael Gasper,sa3007747,26
+Josh Harrison,8202,34
+Alex Kirilloff,20325,24
+Michael A. Taylor,11489,31
+Brandon Martorano,sa918686,24
+Eugenio Suarez,12552,30
+Brett Gardner,9927,38
+Malcom Nunez,sa3008113,21
+Yoelqui Cespedes,sa3015137,24
+Nicholas Raposo,sa3015018,24
+Paul Abrams,sa3010152,21
+Zack Short,19562,27
+Trey Mancini,15149,30
+Lourdes Gurriel Jr.,19238,28
+Elias Diaz,11680,31
+William Contreras,20503,24
+Josh Rojas,19734,28
+Eduardo Escobar,6153,33
+Elvis Andrus,8709,33
+Willie Calhoun,17838,27
+Miguel Amaya,sa917354,23
+Willians Astudillo,15608,30
+Brandon Lockridge,sa3006856,25
+Rowdy Tellez,15679,27
+Cesar Salazar,sa3008107,26
+Jonathan Villar,10071,31
+Frank Schwindel,15351,30
+Alejo Lopez,21127,26
+Luis Garcia,20391,22
+Jesus Sanchez,19913,24
+Jorge Alfaro,12180,29
+Joey Votto,4314,38
+Matthew Fraizer,sa918983,24
+Robbie Grossman,5254,32
+Deivy Grullon,15988,26
+Kevin Padlo,16593,25
+Breyvic Valera,12758,30
+Joey Meneses,sa604598,30
+Starlin Castro,4579,32
+Darin Ruf,9929,35
+Gio Urshela,10681,30
+Brian O'Keefe,sa829152,28
+Matthew Koperniak,sa3014834,24
+Francisco Cervelli,5275,36
+Chas McCormick,19599,27
+Josh Naylor,18839,25
+James Outman,sa3007312,25
+Emmanuel Rivera,19890,26
+Tucker Barnhart,10200,31
+Harold Ramirez,14387,27
+Francis Dingler,sa3014528,23
+Michael Beltre,sa736945,26
+Garrett Stubbs,18067,29
+Edward Olivares,19698,26
+Francisco Alvarez,sa3010862,20
+Ryan Fitzgerald,sa3006218,28
+Khalil Lee,19952,24
+Francisco Urbaez,sa3014944,24
+Triston Casas,sa3007634,22
+Anthony Dungan,sa1169803,26
+Terrin Vavra,sa3007643,25
+Hanser Alberto,11902,29
+Russell Martin,4616,#N/A
+Mitchell Nay,sa657873,28
+Brett Cumberland,sa915611,27
+Ji-hwan Bae,sa3006895,22
+Enmanuel Valdez,sa917288,23
+Diego Rincones,sa916849,23
+Oswaldo Cabrera,sa916954,23
+Freddy Fermin,sa918173,27
+Christian Arroyo,16434,27
+Dane Myers,sa915708,26
+Joseph Ortiz,sa3009889,23
+Mauricio Dubon,16530,27
+Davis Wendzel,sa3011890,25
+Tres Barrera,19977,27
+Andy Ibanez,18819,29
+Freddy Galvis,6609,32
+Eddie Rosario,12155,30
+Joc Pederson,11899,30
+Jon Berti,12037,32
+Jonathan Arauz,20275,23
+Brett Sullivan,sa857232,28
+Nick Dini,18206,28
+Kody Clemens,sa3008002,26
+Yoshi Tsutsugo,27459,30
+Andrew Susac,13132,32
+Drew Avans,sa3006937,26
+Jacob Wilson,13254,31
+Jonathan Schoop,11265,30
+Dustin Garneau,9433,34
+David Peralta,2136,34
+Robert Glendinning,sa3004978,#N/A
+Josh VanMeter,15170,27
+Andy Burns,12779,31
+David Hamilton,sa3014434,24
+Jason Heyward,4940,32
+T.J. Friedl,19522,26
+Bryan De La Cruz,19600,25
+Martin Maldonado,6887,35
+Carlos Santana,2396,36
+Jake Mangum,sa3011255,26
+Francisco Pena,8298,32
+Nicholas Sogard,sa1169919,24
+Robinson Cano,3269,39
+Max Moroff,14556,29
+Alec Bohm,21618,25
+Webster Rivas,14636,31
+Alec Burleson,sa3014466,23
+Cooper Hummel,sa918412,27
+Aledmys Diaz,15937,31
+Willi Castro,17338,25
+Samad Taylor,sa918192,23
+Heliot Ramos,sa3004693,22
+Bryson Brigman,sa829857,27
+Kyle Isbel,21614,25
+Kevin Newman,17696,28
+John Valente,sa3006923,27
+Matt Duffy,13836,31
+Zach McKinstry,19392,27
+Ali Sanchez,18551,25
+Eddy Alvarez,16959,32
+Michael Papierski,sa829203,26
+Michael De La Cruz,sa736830,29
+Victor Robles,18363,25
+Donovan Solano,8623,34
+Danny Mendick,18889,28
+James McCann,12859,32
+Taylor Davis,12782,32
+Domingo Leyba,16404,26
+Jorge Soler,14221,30
+Mike Brosseau,19683,28
+John Rizer,sa1169761,25
+Patrick Dorrian,sa3007629,26
+Tyler White,15564,31
+Gosuke Katoh,sa737619,27
+Yariel Gonzalez,sa920278,28
+Andrew Navigato,sa3010703,24
+Rafael Ortega,10323,31
+Dominic Canzone,sa1115890,24
+Raudy Read,15766,28
+Vimael Machin,17684,28
+Jhonny Pereda,sa735866,26
+Randal Grichuk,10243,30
+Gilberto Celestino,20233,23
+Zachary Watson,sa3011258,25
+Jonathan Aranda,sa919293,24
+Zachary Collier,sa454396,#N/A
+Andy Pages,sa3005625,21
+Anthony Bemboom,13854,32
+Samuel Huff,22209,24
+Andrew Velazquez,14196,27
+Kyle Farmer,14813,31
+Sheldon Neuse,19635,27
+Royce Lewis,sa3004259,#N/A
+Cavan Biggio,19252,27
+Geraldo Perdomo,22799,22
+Mike Moustakas,4892,33
+Kameron Misner,sa3011656,24
+Cristian Santana,sa829387,25
+Maxwell Schuemann,sa3007511,25
+Oscar Mercado,16375,27
+Micker Adolfo,sa830303,25
+Martin Costes,sa3006783,26
+David Bote,14593,29
+Tristan Gray,sa829756,26
+John Lindsly,sa3014942,24
+Rougned Odor,12282,28
+Brian Dozier,9810,35
+Pablo Reyes,16357,28
+Daniel Vogelbach,14130,29
+Brice Turang,sa3008294,22
+Joey Bart,21524,25
+Nick Gordon,16337,26
+Nicholas Plummer,sa874684,25
+Kole Cottam,sa3006780,25
+David Hensley,sa3006733,26
+Tyler Heineman,13897,31
+Adam Duvall,10950,33
+Daniel Schneemann,sa3006936,25
+Kramer Robertson,sa857820,27
+Jahmai Jones,18872,24
+Renato Nunez,14503,28
+Tucupita Marcano,22871,22
+Brian Rey,sa3007307,24
+Austin Listi,sa3004170,28
+Ruben Cardenas,sa3007505,24
+Curt Casali,12510,33
+Michael Hermosillo,16285,27
+Charlie Blackmon,7859,35
+John Hicks,12547,32
+Stephen Vogt,5000,37
+Matt Vierling,21558,25
+Jack Mayfield,15402,31
+Abraham Almonte,5486,33
+Michael Chavis,17321,26
+Hendrik Clementina,sa828422,25
+Juan Fernandez,sa917824,23
+Jhon Nunez,sa736923,27
+Sergio Alcantara,16417,25
+Pedro Castellanos,sa917074,24
+Rodolfo Duran,sa877500,24
+Steven Duggar,17719,28
+Taylor Motter,12399,32
+Diego Castillo,sa872839,24
+Dairon Blanco,sa3005386,29
+Isranel Wilson,sa877504,24
+Kelvin Gutierrez,17468,27
+Brock Holt,9345,34
+Blaine Crim,sa3010170,25
+Cole Tucker,17326,25
+LaMonte Wade Jr.,18126,28
+Jermaine Palacios,sa828886,25
+Kade Scivicque,sa875053,#N/A
+Juan Millan,sa922148,#N/A
+Mark Payton,16042,30
+Nicholas Allen,sa3004723,23
+Wil Myers,10047,31
+Domingo Santana,10348,29
+Steven Berman,sa873599,27
+Alex Dickerson,12649,32
+Jake Rogers,19452,27
+Justin Toerner,sa3006735,25
+Andre Lipcius,sa3010401,24
+Jose Fermin,sa917339,23
+Gabriel Cancel,sa875231,25
+Carter Bins,sa1115884,23
+Corban Joseph,5503,33
+Jose Herrera,sa830295,25
+Anthony Mulrine,sa1170373,24
+Brian McCann,4810,#N/A
+Erik Kratz,4403,42
+Yainer Diaz,sa3003386,23
+Jarren Duran,24617,25
+Brad Miller,12775,32
+Gavin Sheets,19901,26
+Jhonny Santos,sa828314,25
+Pedro Leon,sa3014838,24
+Brian Serven,sa857231,27
+Gavin Collins,sa857219,26
+Zachary DeLoach,sa3014547,23
+Connor Chatham,sa873984,27
+Jose Godoy,15808,27
+Cameron Cannon,sa3011467,24
+Andrew McCutchen,9847,35
+Ryan Lavarnway,8879,34
+Andrew Ferguson,sa875766,29
+Braden Shewmake,sa3010332,24
+Beau Taylor,12384,32
+Taylor Trammell,19960,24
+Jake Lamb,13329,31
+Franchy Cordero,14567,27
+Robert Neustrom,sa3006667,25
+Chris Herrmann,9284,34
+Christian Colon,11145,33
+Lewin Diaz,18365,25
+P.J. Higgins,18433,29
+Devlin Granberg,sa3006671,26
+Ryan Noda,sa873960,26
+Melvin Novoa,sa827953,26
+Jordan Cowan,sa738703,27
+Nick Matera,sa3007528,25
+Andrew Yerzy,sa917939,23
+Taylor Jones,19533,28
+Chavez Young,sa918963,24
+Tyler Wade,15730,27
+Michael Cruz,sa918049,26
+Kyle Mottice,sa3007655,26
+Lars Nootbaar,21454,24
+Eric Hosmer,3516,32
+Jake Suddleson,sa3014828,24
+Jack Suwinski,sa918314,23
+Korry Howell,sa3008238,23
+Joseph Rizzo,sa917934,24
+Victor Reyes,15487,27
+Chad Wallach,17161,30
+Jacob Alu,sa3010009,25
+Nick Ahmed,12147,32
+Canaan Smith-Njigba,sa3004279,23
+Tyler Cropley,sa3007510,26
+Tim Beckham,7949,32
+Marwin Gonzalez,5497,33
+Tyler Nevin,17893,25
+Bruce Maxwell,13866,31
+Jason Martin,16429,26
+Alex Jackson,17276,26
+Daz Cameron,18353,25
+Jurickson Profar,10815,29
+Dominic Smith,15653,27
+Greg Cullen,sa3007069,25
+Andrew Maggi,sa549144,33
+Justin Yurchak,sa915590,25
+Julio Rodriguez,sa917669,25
+David Sheaffer,sa3006846,27
+Leury Garcia,5913,31
+Patrick Wisdom,13602,30
+Brent Rooker,19627,27
+Yu Chang,14773,26
+Norel Gonzalez,sa3014819,28
+David MacKinnon,sa873706,27
+Tyler Naquin,13359,31
+Jordan Walker,sa3014464,20
+Everson Pereira,sa3007034,21
+Jeffrey Schwarz,sa3008391,26
+Curtis Mead,sa3008392,21
+Alex Avila,7476,35
+Ryan McBroom,16524,30
+Nathan Mondou,sa873282,27
+Chadwick Tromp,16953,27
+Bobby Dalbec,19966,27
+Rob Refsnyder,13770,31
+Franklin Torres,sa830300,25
+Matthew Batten,sa3004179,27
+Armando Alvarez,sa913279,27
+Robbie Podorsky,sa3004066,27
+Edouard Julien,sa3014445,23
+Bryce Johnson,sa3004753,26
+Kevin Cron,16211,29
+Tyrone Taylor,13675,28
+Daniel Brito,sa872732,24
+Anthony Tolbert,sa876146,#N/A
+Stuart Fairchild,20321,26
+Travis Jones,sa829805,26
+Justin Upton,5222,34
+Lucius Fox,sa914200,24
+Jesus Bastidas,sa916969,23
+Chase Strumpf,sa3010845,24
+Nicklaus Tanielu,sa829082,29
+Jo Adell,20220,23
+Bryan Arias,sa3011265,25
+Wendell Rijo,sa739597,26
+Jake Fraley,19260,27
+Alexander McKenna,sa3008003,24
+Ronald Guzman,14388,27
+Tim Locastro,15124,29
+Scooter Gennett,10339,#N/A
+Eduardo Antonini,sa3010906,23
+Bryan Torres,sa885119,24
+Jacob Amaya,sa3005081,23
+Matthew Kroon,sa3007502,25
+Gavin LaValley,sa828878,#N/A
+Logan Morrison,9205,34
+Roberto Pena,sa548359,30
+Calvin Mitchell,sa3004258,23
+Cody Roberts,sa3007869,26
+David Rodriguez,sa735825,26
+Jack Kruger,19634,27
+Matt Reynolds,13788,31
+Travis Demeritte,15958,27
+Alexander Isola,sa1170516,23
+D.J. Stewart,17766,28
+LeDarious Clark,sa875568,#N/A
+Aderlin Rodriguez,sa511026,30
+Wilfredo Tovar,10416,30
+Clint Frazier,15983,27
+Adam Engel,15082,30
+Eric De La Rosa,sa3006911,25
+Christopher Hinojosa,sa658616,27
+Christian Walker,13419,31
+Eddys Leonard,sa3005554,21
+Ernie Clement,20352,26
+Griffin Conine,sa876060,24
+Juan Graterol,5398,33
+DJ Peters,19348,26
+Nick Maton,21635,25
+Jake Anchia,sa3006674,25
+Carson Taylor,sa3014468,23
+Shogo Akiyama,27461,34
+Mitchell Kranson,sa918156,#N/A
+Alex Kowalczyk,sa918272,#N/A
+Matthew Barefoot,sa3010145,24
+Jake Smolinski,5408,#N/A
+Niko Goodrum,12092,30
+Michael Capel,sa918012,25
+Michael Massey,sa1115910,24
+Taylor Sparks,sa599278,#N/A
+Wilbis Santiago,sa862819,26
+Mikie Mahtook,13130,32
+Bradley Zimmer,16221,29
+Jakson Reetz,17837,26
+Carlos Rincon,sa917319,24
+Matt Davidson,7226,31
+Kaden Polcovich,sa3014496,23
+Jason Lopez,sa872552,24
+Kole Calhoun,11200,34
+Adolis Garcia,19287,29
+Nicholas Yorke,sa3014546,20
+Gabriel Holt,sa3011899,24
+Robinson Chirinos,3142,38
+Jordan Procyshen,sa829345,29
+Yohel Pozo,18848,25
+Pavin Smith,19892,26
+Maikel Franco,12179,29
+Skye Bolt,17723,28
+Pedro Severino,14523,28
+Nick Martini,12005,32
+Francisco Diaz,sa505229,#N/A
+Wilkin Castillo,5124,#N/A
+Juan Centeno,7168,32
+Raymond McDonald,sa3004173,27
+Colby Fitch,sa915614,26
+Matt Beaty,17710,29
+Jake Bauers,15194,26
+Jose Azocar,sa735839,26
+Tim Federowicz,8609,34
+Charles Robinson,sa918471,27
+Austin Wells,sa3014440,22
+Eric Haase,14111,29
+Joey Roach,sa918726,28
+Andrew Knizner,19514,27
+Dom Nunez,15055,27
+Rangel Ravelo,10839,30
+Luis Liberato,sa737020,26
+Leobaldo Cabrera,sa872551,24
+Justin Dean,sa3007070,25
+Greg Allen,16623,29
+Bruce Caldwell,sa658271,#N/A
+Andres Angulo,sa872806,24
+Noah Naylor,sa3008247,22
+Aramis Garcia,16925,29
+Colton Welker,19961,24
+Dominic Miroglio,sa739013,27
+Jose Devers,20540,22
+Ray-Patrick Didder,sa736824,27
+Eric Filia,sa827359,29
+Drew Stankiewicz,sa599531,29
+Yadiel Hernandez,19334,34
+Luke Raley,19354,27
+Vincent Capra,sa3006731,25
+Phillip Evans,12950,29
+Luke Maile,13355,31
+Jeter Downs,sa3004615,23
+Mike Tauchman,15274,31
+Christopher Betts,sa874791,25
+Jose Briceno,13151,29
+Spencer Kieboom,13300,#N/A
+Braden Policelli,sa918279,27
+Yermin Mercedes,17423,29
+Arquimedes Gamboa,sa877497,24
+Daniel Amaral,sa3006712,25
+Hayden Senger,sa3007009,25
+Josh Altmann,sa875314,#N/A
+Charles Hicklen,sa3004159,26
+Johan Mieses,sa747574,26
+Nelson Velazquez,sa3005129,23
+Kerry Carpenter,sa3010689,24
+Brian O'Grady,16729,30
+Cesar Puello,7216,31
+Jae-Gyun Hwang,19369,#N/A
+Jonathan Lucroy,7870,36
+Andrew Bechtold,sa829787,26
+Blake Hunt,sa3004153,23
+Christopher Morel,sa3003171,23
+Eliezer Alfonzo,sa3003262,22
+Sam Haggerty,18054,28
+Albert Almora Jr.,14109,28
+David Fry,sa3006787,26
+Brandon Lewis,sa3010035,23
+Ben Gamel,12160,30
+Aaron Palensky,sa3015077,23
+Nathan Lukes,sa875215,27
+Dustin Peterson,15189,27
+Andy Young,19521,28
+Michael Perez,12977,29
+Orelvis Martinez,sa3010692,20
+Julio Martinez,sa3005607,26
+Nelson Maldonado,sa3010389,25
+Seth Brown,18171,29
+Corey Julks,sa913274,26
+Ronald Torreyes,11400,29
+Seth Beer,20493,25
+Isan Diaz,17922,26
+Brett Pope,sa3004513,#N/A
+William MacIver,sa3007828,25
+Zach Reks,19667,28
+Nicholas Meyer,sa3007826,25
+Maxwell McDowell,sa875626,28
+Luken Baker,sa3008267,25
+Zachary Borenstein,sa599252,#N/A
+Luis Santana,sa921577,22
+Quincy McAfee,sa1159899,24
+Adam Eaton,11205,33
+Jose Marmolejos,15767,29
+Narciso Crook,sa738300,26
+Joshua Stowers,sa3007010,25
+Wilmer Difo,14320,30
+Hunter Dozier,15117,30
+Kevin Pillar,12434,33
+Adeiny Hechavarria,10459,33
+Kevan Smith,12284,34
+Chris Williams,sa3007028,25
+Jhailyn Ortiz,sa920180,23
+Daniel Pinero,sa738204,28
+Orlando Martinez,sa3006664,24
+Dalton Kelly,sa876363,27
+Logan Moore,sa598265,31
+Dawon Burt,sa828876,26
+Will Wilson,sa3009871,23
+Trey Cabbage,sa875022,25
+Nicholas Loftin,sa3014511,23
+Derek Hill,16947,26
+Jhalan Jackson,sa875208,#N/A
+Alfredo Gonzalez,14267,#N/A
+Jakkob Palomaki,sa3007003,26
+Jose Rojas,19331,29
+Garrett Whitley,sa874244,25
+Nick Ciuffo,16291,27
+Khris Davis,9112,34
+Meibrys Viloria,17109,25
+Jose Siri,17452,26
+Michael Rivera,sa829667,26
+Dylan Moore,18042,29
+Cole Freeman,sa915838,27
+Harold Castro,14691,28
+Christopher Hudgins,sa829684,26
+Braden Bishop,17806,28
+Danny Santana,10322,31
+Bligh Madris,sa3004165,26
+Raimel Tapia,14350,28
+Greg Bird,14131,29
+Logan Porter,sa3007750,26
+Joshua Ockimey,sa829375,26
+Jose Martinez,sa736960,#N/A
+Blake Sabol,sa3010269,24
+Jameson Hannah,sa3007046,24
+Sandro Fabian,sa872803,24
+Jecksson Flores,sa597007,28
+Wynston Sawyer,sa548430,#N/A
+Ismael Munguia,sa917132,23
+Jordan Diaz,sa3003221,21
+Ender Inciarte,4922,31
+Benjamin DeLuzio,sa737626,27
+Nomar Mazara,14553,27
+Jonathan Muno,sa3004176,28
+Henry Ramos,11481,30
+Roberto Ramos,sa829199,#N/A
+Daniel Palka,14897,30
+Zachary Jarrett,sa3002883,27
+Jose Osuna,12937,29
+Anthony Santander,14551,27
+Austin Romine,5491,33
+Ryan LaMarre,10700,33
+Cameron Stubbs,sa3010328,25
+Scott Heineman,14453,29
+William Benson,sa917927,24
+Caleb Hamilton,sa738961,27
+Jacob Robson,19528,27
+Martin Cervenka,sa492636,29
+David Hollins,sa829697,26
+Tony Wolters,11470,30
+Alan Trejo,20056,26
+Jake McCarthy,21622,24
+Jon Rosoff,sa3007635,27
+Mitchell Tolman,sa858829,28
+Ronald Freeman,sa658013,31
+Zachary Remillard,sa659077,28
+Ryan McKenna,19928,25
+Tim Lopes,14137,28
+Mickey Moniak,19956,24
+Steele Walker,sa3008306,25
+Tyler Austin,11850,#N/A
+Aristides Aquino,15482,28
+Mitch Moreland,3086,36
+Nicholas Conti,sa3010844,25
+Forrest Wall,sa828682,26
+Jarrod Orr,sa3009875,25
+Drew Ellis,19873,26
+Fabian Pena,sa3007303,25
+Bobby Bradley,17278,26
+Ryan Gold,sa918639,24
+Jonah Davis,sa3007501,24
+Taylor Kohlwey,sa918457,27
+Jorge Mateo,17273,27
+Adam Haseley,19878,26
+Corey Dickerson,10762,33
+Oliver Dunn,sa3010595,24
+Delino DeShields,11379,29
+Christian Lopes,sa601044,29
+Jace Peterson,12325,32
+Andruw Monasterio,sa830359,25
+Zack Cozart,2616,#N/A
+Luis Gonzalez,20332,26
+Jaylin Davis,19552,27
+Kellin Deglan,sa548189,30
+Oscar Hernandez,13490,28
+Brennon Lund,sa857730,27
+Derek Fisher,16192,28
+Brian Navarreto,16398,27
+Stephen Alemais,sa874070,#N/A
+Rodolfo Castro,21987,23
+Cheslor Cuthbert,10473,29
+Christopher Bec,sa3006727,26
+Ian Sagdal,sa875695,29
+Robert Winn,sa858059,#N/A
+Blake Perkins,sa874806,25
+Matthew Whatley,sa915868,26
+Erick Mejia,15817,27
+Owen Miller,24655,25
+Charlie Culberson,3298,33
+Austin Dean,18288,28
+Christopher Bostick,13718,#N/A
+Jeison Guzman,sa914314,23
+Trevor Larnach,21501,25
+Alfonso Rivas III,21560,25
+Ronny Rodriguez,11875,#N/A
+Jeisson Rosario,sa3004146,22
+Caleb Joseph,7087,36
+Ryan O'Hearn,16442,28
+Sean Bouchard,sa915652,26
+Lenyn Sosa,sa3004051,22
+John Ryan Murphy,10346,31
+Devin Foyle,sa3007515,25
+Dennis Ortega,sa828381,25
+Riley Unroe,sa737614,26
+Jeffrey Bleday,sa3011642,24
+Erik Gonzalez,13369,30
+Joseph Matijevic,sa829488,26
+Robel Garcia,13167,29
+Vincent Fernandez,sa873990,26
+Joseph Wiemer,sa3014531,23
+Chandler Redmond,sa1170749,25
+Bijon Boyd,sa657987,28
+Jose Peraza,13593,28
+Mason Martin,sa3004885,23
+Kaleb Cowart,11494,#N/A
+Cristian Perez,sa917025,23
+Delvin Perez,sa917935,23
+Darius Hill,sa3010395,24
+Brian Goodwin,12858,31
+Graeber Kessinger,sa3010327,24
+Eduardo Diaz,sa917182,24
+Jake Cave,14477,29
+Jonathan Davis,15104,30
+Mason Williams,11859,30
+Michael Reed,13228,#N/A
+Rene Rivera,3648,38
+Dilson Herrera,14335,28
+Christin Stewart,17714,28
+Ehire Adrianza,8418,32
+Hudson Potts,sa917936,23
+Max George,sa829010,26
+Nicholas Dunn,sa915613,25
+Daniel Robertson,14145,28
+Cadyn Grenier,sa3008140,25
+Hyun Soo Kim,18718,#N/A
+Jonah Bride,sa3007516,26
+Tyler Payne,21139,29
+Chris Iannetta,8267,#N/A
+Kungkuan Giljegiljaw,sa830277,#N/A
+Laz Rivera,sa3004128,27
+Vaughn Grissom,sa3010711,21
+Sebastian Rivero,21735,23
+Jodd Carter,sa829534,#N/A
+Juan Lagares,5384,33
+Pedro Pages,sa3010339,23
+James Haley,sa918418,27
+Alberto Mineo,sa660295,#N/A
+Omar Estevez,sa914242,24
+Mark Kolozsvary,sa3004996,26
+Jonathan Deluca,sa3011644,23
+Zach Green,14973,28
+Robert Montes,sa3006715,25
+Garabez Rosa,sa455978,#N/A
+Jean Correa,sa3014823,23
+Endy Rodriguez,sa3008272,22
+Travis Shaw,11982,32
+Charles Leblanc,sa738521,26
+Billy McKinney,15654,27
+Mitchell Longo,sa874178,27
+Yonathan Daza,15794,28
+Eric Sogard,7927,36
+Blake Allemand,sa857217,#N/A
+Howie Kendrick,4229,38
+Bret Boswell,sa918769,#N/A
+Jason Kipnis,9776,35
+Jesus Valdez,sa3005492,24
+Jake Noll,19703,28
+Greg Garcia,10951,32
+Justin Williams,15490,26
+Grantham Williams,sa3006724,26
+Kurt Suzuki,8259,38
+Seby Zavala,18887,28
+Hayden Cantrelle,sa3014426,23
+Jaxx Groshans,sa3010160,23
+Niko Hulsizer,sa3007053,25
+Victor Nova,sa3006075,22
+Peter Maris,sa877608,28
+Jesus Sucre,5942,#N/A
+Ryan Dorow,23559,26
+Chad De La Guerra,sa875729,29
+Weston Wilson,sa873690,27
+Joey Rickard,13277,31
+Carlos Cortes,sa3008079,25
+Tyler Friis,sa915593,26
+Terone Harris,sa3006876,26
+Brett Netzer,sa3004804,#N/A
+Alcides Escobar,6310,35
+Luis Aviles,sa738445,27
+Jett Bandy,12508,32
+Jose Martinez,7996,33
+Mike Freeman,11241,34
+Luis Torrens,15905,26
+Leonardo Rivas,sa872542,24
+Todd Frazier,785,36
+Jackie Bradley Jr.,12984,32
+Cristian Pache,19948,23
+Jorge Bonifacio,12174,29
+Daniel Johnson Jr.,19643,26
+Michael James,sa829039,#N/A
+Ildemaro Vargas,13324,30
+Ben Zobrist,7435,#N/A
+Robert Tenerowicz,sa738999,27
+Tyler Neslony,sa918131,28
+Mason McCoy,sa3002758,27
+Marcus Wilson,sa828703,25
+Austin Wynns,15271,31
+Cody Thomas,sa738459,27
+Boog Powell,15103,#N/A
+Damek Tomscha,sa550391,30
+Matthew Lloyd,sa1169978,26
+Brhet Bewley,sa3007289,25
+Monte Harrison,17216,26
+Phil Gosselin,10953,33
+Andrew Stevenson,17932,28
+Jose Rodriguez,sa3005788,21
+Joe McCarthy,18399,28
+Brett Wisely,sa1170003,23
+Jedd Gyorko,10816,33
+Ryder Jones,15982,28
+Drew Weeks,sa602429,#N/A
+David Masters,sa602586,29
+Rudy Martin,sa829374,26
+Kean Wong,15994,27
+Brent Diaz,sa3004297,26
+Jacob Heyward,sa738955,26
+Jordan Gore,sa3004127,#N/A
+Ethan Skender,sa3010268,25
+Edwin Rios,18316,28
+Chris Shaw,17738,28
+Jose Tena,sa3005482,21
+Aaron Altherr,11270,#N/A
+Christopher Okey,sa738505,27
+Thomas Milone,sa737640,27
+Yolmer Sanchez,11602,30
+Irving Lopez,sa3002878,27
+Alex Dunlap,sa3004878,27
+Ryan Ward,sa1169792,24
+Dwanya Williams-Sutton,sa875819,24
+Renae Martinez,sa3004255,28
+Alexander Palma,sa739541,26
+Miguel Aparicio,sa917275,23
+Tony Renda,13443,#N/A
+Eliezer Alvarez,sa657261,#N/A
+Andrew Millas,sa3014475,24
+David Freese,9549,#N/A
+Jordy Mercer,6547,35
+Moises Castillo,sa917135,22
+Edgar Cabral,sa738507,26
+Leandro Cedeno,sa873307,23
+Hernan Perez,5751,31
+Luis Carpio,sa827960,24
+Dalton Pompey,12797,29
+Stephen Piscotty,13367,31
+Evan Mendoza,sa3002836,26
+Trenton Brooks,sa873268,26
+Carlos Martinez,sa737214,27
+Micah Brown,sa3004286,#N/A
+Rayder Ascanio,sa735861,26
+Jason Krizan,sa546842,33
+Shay Whitcomb,sa3014948,23
+Justin Bour,9744,34
+Justin Smoak,9054,35
+Mitchell Ghelfi,sa875890,#N/A
+Welington Castillo,3256,35
+Chris Sharpe,sa3004726,26
+Adrian Sanchez,11338,31
+Matthew Lipka,sa548175,30
+Tanner Kirwer,sa3002831,26
+John Nogowski,16852,29
+Nick Hundley,3376,#N/A
+Luke Williams,19931,25
+Kyle Garlick,18063,30
+Victor Mesa,sa3008602,25
+Pat Valaika,14885,29
+Jax Biggers,sa3008251,25
+Rafael Marchan,21646,23
+Darick Hall,sa918293,26
+Ryan Scott,sa738447,#N/A
+Keston Hiura,20003,25
+Sandy Leon,5273,33
+Ryan Boldt,sa738262,27
+Alexander Holderbach,sa3006789,25
+Drew Jackson,17807,28
+Erick Castillo,12990,29
+Jesmuel Valentin,14548,#N/A
+Ricardo Genoves,sa916844,23
+Moises Sierra,6050,#N/A
+Robert Hassell,sa3014701,20
+Tyreque Reed,sa3004163,25
+Dustin Fowler,17098,27
+Andrew Waters,sa3004378,23
+Dominic Fletcher,sa1115778,24
+Riley Adams,19864,26
+Alex De Goti,19477,27
+Austin Rei,sa659079,28
+Shayne Fontana,sa3010897,25
+Connor Kaiser,sa3007823,25
+Richie Martin,17736,27
+Bryan Holaday,11287,34
+Jason Delay,sa857222,27
+Dawel Lugo,14713,27
+Thomas Dillard,sa3011308,24
+Bryant Flete,sa657425,#N/A
+Andrew Aplin,sa502787,#N/A
+Asdrubal Cabrera,4962,36
+Albert Pujols,1177,42
+Alen Hanson,12926,29
+Colin Moran,16909,29
+Ian Miller,15156,30
+Dermis Garcia,sa881025,24
+Sam Hilliard,17954,28
+Kyle McCann,sa1159677,24
+Ross Adolph,sa3006666,25
+Livan Soto,sa3004264,22
+Olivier Basabe,sa3004933,24
+Trey Amburgey,18425,27
+Christopher Rabago,sa829062,29
+Joshua Lester,sa658811,27
+Felix Valerio,sa3005613,21
+Jorbit Vivas,sa3005511,21
+Grant Koch,sa3008180,25
+Miguel Cabrera,1744,39
+Simon Whiteman,sa1169809,25
+Seuly Matias,sa917039,23
+Richard Urena,16411,26
+Jose Rondon,14140,28
+Andres Chaparro,sa916976,23
+Miguel Sano,12164,29
+John Conley,sa3006857,25
+Shed Long Jr.,16542,26
+Scott Schreiber,sa3007637,26
+Ryan Zimmerman,4220,37
+Aaron Whitefield,19938,25
+Connor Marabell,sa858026,28
+Hunter Cole,sa603087,#N/A
+Sebastian Elizalde,sa544568,30
+Dalton Guthrie,sa829836,26
+Nolan Fontana,13267,#N/A
+Jack Lopez,13663,29
+Joe Panik,11936,31
+Isiah Gilliam,sa829343,25
+Nicholas Gonzales,sa3014510,23
+Maikel Garcia,sa3003246,22
+Clayton Daniel,sa3007646,27
+Shane Matheny,sa3004780,26
+Christian Koss,sa3011227,24
+Michael Cantu,sa829494,26
+Ryan Costello,sa3004071,#N/A
+Brandon Snyder,9856,35
+Neil Walker,7539,36
+Mike Ford,15585,29
+Andrew Knapp,14942,30
+Leonys Martin,11846,#N/A
+Gunnar Henderson,sa3011484,21
+Brandon Valenzuela,sa3005729,21
+Matt Carpenter,8090,36
+Travis Jankowski,13768,31
+Roberto Alvarez,sa917107,22
+Luis Vazquez,sa3005131,22
+Jared Triolo,sa3010272,24
+Logan Davidson,sa918676,24
+Esteury Ruiz,sa917030,23
+Brett Auerbach,sa3014941,23
+Ivan Castillo,15971,27
+Logan Hill,sa875822,#N/A
+Garrett Hampson,19262,27
+Carlos Tocci,14558,26
+Carlton Daal,sa729572,#N/A
+Javier Guevara,sa872828,24
+Jake Marisnick,11339,31
+Nick Williams,14330,28
+Michael Matheny,sa658567,28
+Barrett Barnes,sa577859,#N/A
+Mac Williamson,14158,#N/A
+Mark Contreras,sa3004164,27
+Sean Rodriguez,6589,37
+Michael White,sa658966,28
+Eric Thames,3711,35
+Levi Michael,sa526207,#N/A
+Roman Quinn,13546,29
+Zack Collins,19181,27
+Trayce Thompson,9952,31
+Mark Hopkins,sa1053018,25
+Trevor Hauver,sa3014448,23
+Dillon Paulson,sa3007007,25
+Timothy Susnara,sa829699,26
+Eric Wood,sa602394,#N/A
+Luis Trevino,sa3009893,26
+Erik Ostberg,sa3004505,26
+Daniel Woodrow,sa918257,27
+Kyle Holder,sa857840,28
+Carlos Sepulveda,sa877338,25
+Jacob Rhinesmith,sa3006729,26
+Luis Barrera,19615,26
+Logan Driscoll,sa3009882,24
+Michael Smith,sa3004997,25
+Euribiel Angeles,sa3008877,20
+Brallan Perez,sa736999,#N/A
+Robert Emery,sa3014940,25
+Mark Karaviotis,sa738977,#N/A
+Ryon Healy,15447,30
+Armond Upshaw,sa918220,26
+Kody Hoese,sa3010021,24
+Roemon Fields,sa829879,#N/A
+Gunnar Troutwine,sa3006785,26
+Mark Mathias,18032,27
+Jay Schuyler,sa3006662,25
+Mike Gerber,16115,#N/A
+Gianpaul Gonzalez,sa829276,26
+Brian Schales,sa828808,#N/A
+Abrahan Gutierrez,sa3004263,22
+Dustin Harris,sa3010279,22
+Torii Hunter,sa738667,27
+Wyatt Mathisen,14555,28
+Francisco Arcia,10286,32
+Jose Lobaton,4243,37
+Alfredo Reyes,sa597093,#N/A
+Philip Clarke,sa3011379,24
+Levi Jordan,sa3007976,26
+Angelo Mora,sa597177,#N/A
+Sherman Johnson,13906,31
+Zane Gurwitz,sa3004062,#N/A
+Joshua Bissonette,sa1170619,25
+Lorenzo Quintana,sa3005394,33
+Socrates Brito,12944,29
+Bubba Starling,13356,29
+Matt Wieters,4298,36
+William Toffey,sa829401,27
+Chandler Seagle,sa3003969,26
+Wagner Lagrange,sa875875,26
+Wynton Bernard,sa658999,31
+Nicholas Gaddis,sa3009888,25
+Devin Mann,sa3006869,25
+Elih Marrero,sa3007822,25
+Zade Richardson,sa3010901,22
+Ernie De La Trinidad,sa3003955,26
+Adam Moore,9362,#N/A
+Josh Palacios,19818,26
+Lucas Erceg,sa872722,27
+Ademar Rifaela,sa736911,#N/A
+Abiatal Avelino,15496,27
+Troy Stokes Jr.,17478,26
+Michael Curry,sa3006653,24
+Jackson Cluff,sa3010342,25
+Michael Toglia,sa3010393,23
+Eli White,19346,28
+Agustin Ruiz,sa3004149,22
+Ruben Tejada,5519,32
+Gregory Garrett,sa829117,26
+Jacob Scavuzzo,sa658601,#N/A
+Anthony Alford,14329,27
+Elliot Soto,11155,32
+Joseph Dunand,sa3005360,26
+Shin-Soo Choo,3174,39
+Tyler Saladino,10807,#N/A
+Taylor Snyder,sa738930,27
+Michael Ahmed,sa705802,#N/A
+Michael Gettys,sa828692,26
+Jacob Peter,sa829115,#N/A
+Fabricio Macias,sa927338,24
+David Dahl,13744,28
+Errol Robinson,sa857819,27
+Keith Curcio,sa829045,#N/A
+Billy Hamilton,10199,31
+Carmen Benedetti,sa918269,#N/A
+Joseph Cronin,sa857761,#N/A
+Christian Kelley,sa875583,28
+Jarrod Dyson,4866,37
+Patrick Kivlehan,13910,32
+Ryan January,sa918104,25
+Magneuris Sierra,17023,26
+Cullen Large,sa3003959,26
+Wendell Eaves,sa658290,#N/A
+Alexis Torres,sa918010,24
+Luis Alexander Basabe,17839,25
+Miguel Hernandez,sa917055,23
+Daniel Cabrera,sa3014452,23
+Dario Pizzano,sa658253,#N/A
+Tyler Soderstrom,sa3014489,20
+Rodrigo Vigil,sa547818,29
+Grant Witherspoon,sa3007047,25
+Michael Reed,sa738683,27
+Yoel Romero,sa872524,24
+Steven Souza Jr.,5667,33
+Charles Alexander,sa3006912,25
+Rashad Crawford,sa658166,#N/A
+Carlos Asuaje,15197,30
+Lewis Brinson,14352,28
+Ronny Mauricio,sa3006887,21
+Mallex Smith,13608,29
+Zach Vincej,13269,#N/A
+Adrian Valerio,sa828164,#N/A
+Clinton Coulter,sa657922,28
+Matt Joyce,3353,37
+Joe Hudson,14412,31
+Ryan Vilade,22165,23
+Dillon Thomas,12719,29
+Michael Guldberg,sa3014822,23
+Kyle Marinconz,sa3007638,26
+Joshua Stephen,sa918203,24
+Connor Hollis,sa3007870,27
+Dee Gordon,8203,34
+Hamlet Marte,sa597218,28
+Matthew Scheffler,sa3014832,24
+Guillermo Heredia,18721,31
+Henry Gatewood,sa828685,26
+Jared Young,sa3004937,26
+Jacob Adams,sa3003962,26
+Cody Bohanek,sa3004157,26
+Trace Loehr,sa829044,27
+Carlos Narvaez,sa916966,23
+Kenneth Michalczewski,sa737859,#N/A
+Anderson Tejeda,19909,24
+Ezequiel Duran,sa3005271,23
+Chase Calabuig,sa3006927,26
+Jose Pirela,5485,#N/A
+Evan White,20078,26
+John Rave,sa918890,24
+Ian Dawkins,sa3006685,26
+Gregory Polanco,12907,30
+Doran Turchin,sa3006680,24
+Andrew Daschbach,sa3011414,24
+Alberti Chavez,sa657456,#N/A
+Colton Plaia,sa658920,#N/A
+Jaylen Ferguson,sa875317,24
+Michael Papi,sa599318,#N/A
+Marco Hernandez,13154,29
+Drew Mount,sa3006728,26
+Jose Caballero,sa3004817,25
+Rosell Herrera,11611,#N/A
+Grayson Greiner,17062,29
+Yorman Rodriguez,sa872817,24
+Patrick Bailey,sa3014442,23
+Ramiro Rodriguez,sa917287,24
+Ryan Grotjohn,sa3003964,#N/A
+Jake Scheiner,sa3004160,26
+David Banuelos,sa3004056,25
+Ryan Aguilar,sa918712,27
+Michael Harris,sa3010684,21
+Jonathan Morales,sa875808,27
+Yanio Perez,sa975161,#N/A
+Cory Spangenberg,12294,#N/A
+Freddy Zamora,sa3014500,23
+Andy Weber,sa3008282,24
+Jalen Miller,sa875016,25
+Nick Franklin,10166,#N/A
+Donald Dewees,sa858802,#N/A
+Darryl Artis,sa3007632,25
+Rodrigo Orozco,sa740813,#N/A
+Jonah Arenado,sa738199,#N/A
+Trey Hair,sa3003436,27
+Carlos Herrera,sa830140,25
+Luis Matos,sa3008756,20
+Lorenzo Hampton,sa3010678,24
+Kort Peterson,sa874104,#N/A
+Rio Ruiz,14103,28
+Preston Tucker,13633,#N/A
+Phillip Ervin,14738,29
+Brendt Citta,sa3007633,25
+Chase Pinder,sa3003961,26
+Joshua Fuentes,16885,29
+Greyson Jenista,sa3007044,25
+David Vidal,sa548470,#N/A
+Elijah Wilson,sa918961,23
+Daniel Lockhart,sa598065,#N/A
+Chance Sisco,15694,27
+Kevin Vicuna,sa872466,24
+William Yahn,sa915589,26
+Dixon Machado,11472,#N/A
+Anthony Seigler,sa3006894,23
+Jordan Zimmerman,sa915727,#N/A
+Jerar Encarnacion,sa943817,24
+Roy Morales,sa829030,27
+Christopher Givin,sa3010161,25
+William Fisher,sa658576,28
+Nick Heath,19577,28
+Daniel Cope,sa3010157,25
+Curtis Terry,18881,25
+Jeffrey Hendrix,sa829803,#N/A
+Austin Dennis,sa3007650,25
+Logan Taylor,sa857838,#N/A
+Noelvi Marte,sa3008745,20
+Kellen Strahm,sa3010278,25
+James Kerrigan,sa3005235,28
+Miguelangel Sierra,sa872750,24
+Maxwell Burt,sa3007631,25
+Cristhian Adames,6013,#N/A
+Christopher Cornelius,sa3010686,24
+Gabriel Garcia,sa875999,24
+Jerrick Suiter,sa599740,#N/A
+David Garcia,sa3003197,22
+Jeremy Eierman,sa3007005,25
+Christopher Proctor,sa3007062,25
+Luis Basabe,sa736924,25
+Kelvin Melean,sa917141,23
+Yoenis Cespedes,13110,36
+Cornelius Randolph,sa874241,25
+Gabriel Guerrero,14528,#N/A
+Kainoa Harrison,sa829382,25
+Arden Pabst,sa858812,27
+Hunter Owen,20034,28
+Ramon Rodriguez,sa918698,23
+Demetrius Sims,sa3004390,26
+Roldani Baldwin,sa828313,26
+Wilson Garcia,sa596287,28
+Jeremy Vasquez,sa915673,25
+Matthew Hearn,sa918523,26
+Anderson Feliz,sa505526,#N/A
+Carlos Gomez,4881,#N/A
+Will Craig,19267,27
+Ibandel Isabel,sa737017,27
+Zachary Zehner,sa829122,29
+Jhonkensy Noel,sa3005579,20
+Charles McElroy,sa597861,#N/A
+Nicholas Longhi,sa738434,26
+Drew Ward,sa737690,27
+Blake Rutherford,sa917932,25
+Jarrett Parker,11624,#N/A
+Michael Amditis,sa3010148,24
+Charcer Burks,sa737838,#N/A
+Josh Reddick,3892,35
+Gilbert Lara,sa877337,24
+Allan Cerda,sa3005504,22
+Nathan Esposito,sa602817,29
+Francisco Tostado,sa3007030,24
+Gage Workman,sa3014441,22
+Ezequiel Tovar,sa3008239,20
+Yonathan Mendoza,sa596904,#N/A
+Heath Quinn,sa737904,27
+Isaac Collins,sa3009884,24
+Edwin Diaz,sa738152,26
+Kristopher Negron,5306,#N/A
+Jeren Kendall,sa829529,26
+Corey Bird,sa874209,26
+Deon Stafford,sa915865,26
+Stephen Wrenn,sa738419,27
+Benjamin Gonzalez,sa454764,#N/A
+Jung Ho Kang,17182,#N/A
+Dennicher Carrasco,sa917459,26
+Joantgel Segovia,sa827979,#N/A
+Andrew Romine,1159,36
+Delvin Zinn,sa875884,25
+JT Riddle,17642,30
+Jack Kenley,sa3010718,24
+Joseph Gray Jr.,sa3008005,22
+Israel Pineda,sa3004385,22
+Luis Gonzalez,sa736875,27
+Matt Szczur,11255,32
+Logan Warmoth,sa3004813,26
+Joseph Odom,15535,30
+Dexter Fowler,4062,36
+Steven Baron,9787,#N/A
+Jesse Hodges,sa739560,#N/A
+Dylan Rosa,sa3004285,26
+Daniel Vellojin,sa3005587,22
+Jeffrey Baez,sa597088,#N/A
+Luis Castro,sa736954,26
+Logan Landon,sa875279,29
+Nick Markakis,5930,38
+Nate Nolan,sa918101,27
+Ryan Flaherty,7888,#N/A
+Diego Cartaya,sa3008742,20
+Greg Deichmann,19872,27
+Brandon Dixon,15214,30
+Liover Peguero,sa3005582,21
+Marco Luciano,sa3010022,20
+Kevin Kramer,17689,28
+Edwin Figuera,sa872730,24
+Chris Owings,10030,30
+Scott Hurst,20501,26
+Jonathan Ornelas,sa3006909,22
+Matthew McLaughlin,sa915706,26
+Robert Perez,sa3002851,22
+Will Maddox,sa827323,#N/A
+Rocky Gale,10533,34
+Ryan Howard,sa857225,27
+Cody Freeman,sa3010153,21
+Brendon Sanger,sa858055,#N/A
+Matthew Winaker,sa3004506,26
+Brandon Drury,11615,29
+Roberto Caro,sa657285,#N/A
+Imeldo Diaz,sa872851,24
+Kyle Wren,sa621577,#N/A
+Benton Breazeale,sa3002753,#N/A
+Joel Booker,sa918497,28
+Zavier Warren,sa3014549,23
+Andretty Cordero,sa830037,#N/A
+Chad Bell,sa3010888,25
+Dwight Smith Jr.,13473,29
+Brandon Howlett,sa3007745,22
+Yonder Alonso,2530,#N/A
+Logan Forsythe,7185,35
+Craig Dedelow,sa918840,27
+Jair Camargo,sa917333,22
+Chris Clare,sa918466,#N/A
+Chuck Taylor,sa658001,#N/A
+Darnell Sweeney,13284,#N/A
+Sean Roby,sa3007788,23
+Cliff Pennington,3395,#N/A
+Aldrem Corredor,sa736852,26
+Tristen Lutz,sa3004968,23
+Reivaj Garcia,sa3006900,20
+Brian Miller,20047,26
+Jake Hager,12198,29
+Evan Skoug,sa829713,26
+Carlos Soto,sa900974,23
+Diosbel Arias,sa3005308,25
+Kendrys Morales,8610,#N/A
+Cooper Johnson,sa3010584,24
+Rafael Lantigua,sa3003219,24
+Isaac Freeman,sa3010167,24
+Courtney Hawkins,sa657904,#N/A
+Ka'ai Tom,18136,28
+Desmond Lindsay,sa874792,25
+Yasel Antuna,sa962601,22
+Eric Yang,sa1169769,24
+Cameron Balego,sa3004517,27
+Tanner Morris,sa3009873,24
+Bryce Windham,sa3010403,25
+Toby Welk,sa1170296,25
+Johan Rojas,sa3005784,21
+Ryan Court,12268,#N/A
+Michael Reynolds,sa579292,31
+Ian Rice,sa658968,#N/A
+Tyler Dearden,sa3005103,23
+Christian Donahue,sa3005401,27
+Donovan Casey,sa915654,26
+Angelo Castellano,sa657521,27
+Trent Giambrone,19250,28
+Manny Rodriguez,sa3006678,25
+Hunter Jones,sa548556,#N/A
+Jose Gomez,sa828331,25
+Ethan Paul,sa3011423,25
+Jack Blomgren,sa3014825,23
+Keegan McGovern,sa3006710,26
+Ali Castillo,sa507143,33
+Tyler Fitzgerald,sa3011257,24
+Jose Chavez,sa657706,26
+Juan Escarra,sa738605,27
+Hudson Haskin,sa3014449,23
+Pedro Florimon,8385,35
+Luke Waddell,sa3017075,23
+Gage Canning,sa3006711,25
+Collin Theroux,sa876102,28
+Dae-Ho Lee,18722,#N/A
+Jancarlos Cintron,sa3004065,27
+Corey Ray,19170,27
+Cristhian Longa,sa3003408,22
+Eric Stamets,13795,30
+Jacob Olson,sa3010394,25
+Braxton Martinez,sa3005373,28
+Jake Elmore,7290,35
+Ruben Sosa,sa599247,#N/A
+Eric Young Jr.,7158,#N/A
+Daniel Descalso,8392,35
+Maverick Handley,sa3010848,24
+Edgar Corcino,sa502309,#N/A
+Casey Golden,sa873997,27
+Stevie Wilkerson,16041,30
+Jeff Mathis,3448,39
+Jordan George,sa876211,#N/A
+James Free,sa3011156,24
+Patrick Leonard,sa597839,#N/A
+Patrick DeMarco,sa3011702,24
+Roberto Baldoquin,sa857538,#N/A
+Vance Vizcaino,sa658828,27
+Jhoan Urena,sa657511,#N/A
+Mitchell Marincov,sa550348,#N/A
+Jeffrey Mundy,sa3014886,24
+Nash Knight,sa876814,29
+Drew Romo,sa3014522,20
+Alexander Canario,sa3003316,22
+Yusniel Diaz,sa912848,25
+Daniel Fajardo,sa657408,#N/A
+Kale Emshoff,sa3014934,24
+Cole Sturgeon,sa709546,#N/A
+Leonel Valera,sa917320,22
+JaCoby Jones,14818,30
+Preston Beck,sa621361,#N/A
+Granden Goetzman,sa597785,#N/A
+Gordon Beckham,9015,#N/A
+Joseph Curletta,sa658025,#N/A
+Elijah Dunham,sa3014827,24
+Jesse Franklin,sa3014532,23
+Cobie Vance,sa3006860,24
+Raul Rivas,sa871433,#N/A
+Kekai Rios,sa3007282,25
+Nathan Perry,sa3004756,22
+Pete Kozma,2539,34
+Ryan Casteel,sa549286,31
+Ryne Ogren,sa3006726,25
+Riley Mahan,sa829844,26
+Andres Melendez,sa3005523,21
+Nicholas Decolati,sa3006670,24
+Salvatore Frelick,sa3017047,22
+Deven Marrero,13325,31
+Edgardo Fermin,sa872571,24
+Drew Lugbauer,sa829268,25
+Cameron Maybin,5223,35
+Charles Mack,sa3008250,22
+Jorge Barrosa,sa3005524,21
+Adam Jones,6368,#N/A
+Scott Kapers,sa3007013,25
+Kyle Schmidt,sa3010707,24
+Lazaro Alonso,sa3002722,27
+Tzu-Wei Lin,14678,28
+Gabriel Maciel,sa919532,23
+Byung-ho Park,18497,#N/A
+Mark Zagunis,16565,#N/A
+Kevin Merrell,sa915707,26
+Spencer Horwitz,sa1115496,24
+Nicky Delmonico,13157,29
+Matthew Pita,sa3008146,25
+Andy Sugilio,sa828414,25
+Jared Oliva,19968,26
+David Vinsky,sa1169997,23
+Daniel Murphy,4316,37
+Max Schrock,17750,27
+Brandon Barnes,629,#N/A
+Erisbel Arruebarrena,15809,#N/A
+Edwin Encarnacion,2151,39
+Gilberto Vizcarra,sa3002865,23
+Raul Hernandez,sa873181,26
+Jose Peroza,sa3003288,22
+Ty Kelly,7740,33
+Alfredo Rodriguez,sa922180,28
+Malquin Canelo,sa657479,27
+Manuel Geraldo,sa827970,25
+Troy Johnston,sa3010899,25
+Michael De Leon,sa823925,25
+McCarthy Tatum,sa3010582,26
+Anibal Sierra,sa908626,#N/A
+Harrison Wenson,sa738936,27
+Nick Dalesandro,sa3007503,25
+Jacob Buchberger,sa3014987,24
+Pablo Sandoval,5409,35
+Hunter Stovall,sa3008181,25
+Justin Dirden,sa3014986,24
+Gabe Matthews,sa3016920,24
+Matthew McLain,sa3017154,22
+Kyle Datres,sa3008029,26
+Nicholas Lovullo,sa659264,28
+Elier Hernandez,sa659238,27
+Moises Gomez,sa875163,23
+Jake Means,sa1170316,26
+Alex Blandino,16271,29
+Jeremy Arocho,sa3004046,23
+Nerio Rodriguez,sa3003325,22
+John Silviano,sa658243,#N/A
+Michael O'Neill,sa550175,#N/A
+Seth Mejias-Brean,13905,31
+Darrien Miller,sa3011330,21
+Alexander Williams,sa3014427,23
+Connor Justus,sa873634,27
+Jacob Pearson,sa3004722,24
+Jonathan Homza,sa3004155,23
+John Andreoli,13012,32
+Johneshwy Fargas,16446,27
+JB Shuck,6677,#N/A
+Corey Rosier,sa3016961,22
+Gerardo Parra,8553,35
+Jonathan Engelmann,sa3006858,25
+Tyrus Greene,sa3006920,25
+Ashton McGee,sa3010334,23
+Carlos Gonzalez,7287,#N/A
+Stefan Trosclair,sa918442,#N/A
+Osleivis Basabe,sa3006594,21
+Luis Valenzuela,sa658081,#N/A
+Jake Hoover,sa3010280,24
+Ian Desmond,6885,#N/A
+Sean Miller,sa875243,#N/A
+Bo Way,sa829126,#N/A
+Jeferson Morales,sa3005472,23
+Ben Ruta,sa918694,28
+Connor Kopach,sa3006791,27
+Luisangel Acuna,sa3008765,20
+Jared Walker,sa829364,26
+Yunior Severino,sa3003185,22
+Ramon Torres,14113,#N/A
+Michael Gigliotti,sa915700,26
+Jefrey Ramos,sa923039,23
+Timothy Nichting,sa873681,#N/A
+Chase d'Arnaud,6652,#N/A
+Kevin Sanchez,sa917767,23
+Dustin Skelton,sa3011327,24
+Joseph Donovan,sa3015088,23
+Christopher Roller,sa3004068,25
+Scott Kingery,17975,28
+Robert Honeyman,sa3006645,26
+Anderson Miller,sa857824,28
+Matthew Marlowe,sa1170288,25
+Tristan Pompey,sa3008077,25
+Jomar Reyes,sa830204,#N/A
+Isaac Galloway,5238,#N/A
+Diego Goris,sa507199,#N/A
+Tucker Bradley,sa3014937,24
+Leonardo Jimenez,sa3006891,21
+Jacson McGowan,sa3006677,25
+Jordan Qsar,sa3007078,26
+Joseph Rosa,sa872490,25
+Martin Herum,sa745229,#N/A
+Masyn Winn,sa3014506,20
+Jairo Pomares,sa3010023,21
+Bradley Zunica,sa875647,26
+Melky Cabrera,4022,#N/A
+Taylor Grzelakowski,sa3005298,#N/A
+Vincent Johnson,sa1169627,23
+Devin Hairston,sa915575,26
+Victor Labrada,sa3015062,22
+Juan Martinez,sa917056,23
+Yonathan Perlaza,sa917302,23
+Sam Travis,16263,28
+Grenny Cumana,sa735846,26
+Austin Davidson,sa599216,#N/A
+Yoel Yanqui,sa3003437,26
+Christopher Chinea,sa827344,28
+Jim Adduci,6448,#N/A
+Samir Duenez,sa739574,26
+Jorge Ona,20040,25
+Sherten Apostel,21794,23
+Luis Garcia,sa3007295,21
+John Dunn,sa3010029,25
+Stephen Scott,sa3011469,25
+Jacob Sanford,sa3010585,24
+Alexander Valdez,sa254456,#N/A
+Brett Harris,sa3017293,24
+Tyler Reichenborn,sa3011628,23
+Jon Jay,5227,37
+Daniel Edgeworth,sa3002880,26
+Cameron Eden,sa3009883,24
+Angel Aguilar,sa657323,#N/A
+Charlie Tilson,12983,29
+Tyler Malone,sa3010398,24
+Nathan Eaton,sa3007074,25
+Jared McDonald,sa3014936,25
+Juan Aparicio,sa3002710,22
+Jarett Rindfleisch,sa873696,26
+Connor Panas,sa875228,#N/A
+Noel Cuevas,11894,#N/A
+Marco Hernandez,sa917737,24
+Juremi Profar,sa736995,#N/A
+Gustavo Campero,sa3003242,24
+Eduardo Torrealba,sa917095,23
+John-Daniel Osborne,sa3005053,26
+Erick Salcedo,sa548029,#N/A
+James Alexander,sa1170495,26
+Ryan Cordell,15181,30
+Matt Skole,12119,#N/A
+Justin Twine,sa828686,26
+David Thompson,sa659290,28
+Dominique Thompson-Williams,sa829483,27
+Jason Talley,sa1169773,25
+Mitchell Roman,sa918259,27
+Chad Spanberger,sa3004242,26
+Tanner English,sa599081,#N/A
+Luke Miller,sa3006879,25
+Luis Marte,14515,28
+Luke Burch,sa3003950,#N/A
+Edward Forbes,sa828696,25
+Jan Hernandez,sa737639,27
+Connor Lien,sa658195,28
+Shane Selman,sa1115804,25
+Saul Torres,sa923363,23
+Ronnie Dawson,19710,27
+Jesus Lujano,sa917197,23
+Samual McMillan,sa3004277,23
+Logan Brown,sa3006938,25
+Alberto Triunfel,sa597103,#N/A
+Cody Farhat,sa3008078,25
+Zach Davis,sa918888,28
+Micael Ramirez,sa3004883,23
+Omar Carrizales,sa736953,#N/A
+Luis De Los Santos,sa917822,24
+Justin Lopez,sa3002670,22
+Curtis Granderson,4747,#N/A
+Zachary Kirtley,sa915820,#N/A
+William Abreu,sa738883,27
+Nicholas Banks,sa873982,27
+Yoyner Fajardo,sa3005938,23
+Matthew Wallner,sa918808,24
+Antoine Duplantis,sa3011224,25
+William Banfield,sa3007973,22
+Ramon Hernandez,sa828281,#N/A
+Taylor Gushue,16098,28
+Gregor Blanco,3123,#N/A
+Chandler Taylor,sa3006654,26
+Romer Cuadrado,sa872527,24
+Jorma Rodriguez,sa736694,#N/A
+Alex De Jesus,sa3008842,20
+Alex Erro,sa3010177,24
+Nicholas Northcut,sa3007640,23
+Osvaldo Abreu,sa657398,28
+Onix Vega,sa3008007,23
+Dylan Davis,sa709037,#N/A
+Geraldi Diaz,sa3002635,21
+Blake Swihart,13176,30
+Andrew Mendoza,sa3011256,24
+Pablo Aliendo,sa3006220,21
+Jose Mena,sa919893,25
+Luis Leon,sa917463,23
+Nicholas Zammarelli,sa738401,#N/A
+William Hancock,sa3006854,25
+Deiner Lopez,sa597152,#N/A
+Austin Bernard,sa3004510,26
+Nicholas Kahle,sa1115979,24
+Aaron Knapp,sa873277,#N/A
+Alexander Wiel,sa857249,29
+Dean Nevarez,sa3007073,25
+Davis Schneider,sa3004518,23
+Jakob Guenther,sa3011263,25
+Evan Carter,sa3014490,19
+Brendan McKay,20186,26
+Daniel Gamache,sa597966,#N/A
+Tyler Duvall,sa3014880,24
+Cameron Devanney,sa1170010,25
+Philip Scolamiero,sa3002837,26
+Keinner Pina,sa828363,25
+Brandon Van Horn,sa918436,#N/A
+Connor Myers,sa918641,28
+Oscar Campos,sa831986,25
+Ricardo Rodriguez,sa877334,24
+James Nelson,sa875753,24
+Zachary Mathis,sa3014945,23
+Wenceel Perez,sa3003326,22
+Jordan Devencenzi,sa875840,#N/A
+Josh Phegley,9308,34
+Rajai Davis,3708,#N/A
+Chad Sedio,sa918611,#N/A
+Andrew Pratt,sa3010045,25
+Colton Cowser,sa3017018,22
+Seth Gray,sa1115752,24
+Derek Dietrich,10542,32
+Bralin Jackson,sa658012,#N/A
+Matt Adams,9393,33
+Frainyer Chavez,sa3007019,23
+Brock Lundquist,sa3002834,26
+Nick Podkul,sa3006720,25
+Jordan Cannon,sa3010020,25
+Rafael Bautista,15769,29
+Colton Shaver,sa915847,26
+Rhett Wiseman,sa658608,28
+Alejandro Salazar,sa827937,#N/A
+Cole Billingsley,sa873699,#N/A
+Michael Davis,sa3016806,23
+Preston Palmeiro,sa857823,27
+Rusber Estrada,sa3007077,27
+Anfernee Seymour,sa829114,#N/A
+Ronny Simon,sa3008365,22
+Manuel Melendez,sa828329,25
+Camden Duzenack,sa873988,27
+Gift Ngoepe,10340,#N/A
+Tristin English,sa876328,25
+Blaze Alexander,sa3007742,23
+Seaver Whalen,sa3003939,27
+Tyler Krieger,sa658994,28
+Michael Antico,sa3016922,24
+Jake Holton,sa3010599,24
+Miguel Palma,sa3009279,20
+Wilyer Abreu,sa3005082,23
+Bryan Mejia,sa597100,#N/A
+Parker Meadows,sa3007943,22
+William Overstreet,sa827140,28
+Matt Kemp,5631,37
+Zachary Gelof,sa3017286,22
+Eric Cole,sa3008268,25
+Joseph Davis,sa3010635,25
+Harris Brodey,sa829783,26
+Jose Rivas,sa872495,23
+Jonathan Diaz,sa3005290,22
+Lucas Duda,2502,#N/A
+Antonio Gomez,sa3008746,20
+Jayce Easley,sa3007057,22
+Adam Hall,sa3005077,23
+Steve Pearce,9957,#N/A
+Austin Murr,sa3016967,23
+Adam Kerner,sa3014938,23
+Jose Colina,sa872875,24
+Gareth Morgan,sa828708,26
+Cole Roederer,sa3008184,22
+Trey Sweeney,sa3016973,22
+Zachary Britton,sa3014821,23
+Jonathan Butler,sa3017292,23
+Pablo Olivares,sa872547,24
+Mark Trumbo,6876,#N/A
+Ivan Gonzalez,sa3010014,25
+Juan Uriarte,sa872569,24
+Nelson Rodriguez,sa658264,#N/A
+Walter Coursey,sa3010721,23
+Yeltsin Encarnacion,sa875336,24
+Connor Scott,sa3008080,22
+Diego Infante,sa3003280,22
+William Simoneit,sa3014885,25
+Bryan Ramos,sa3010024,20
+Jeremy Rivera,sa829240,27
+Yerdelluis Vargas,sa3003184,22
+Franklin Rollin,sa827951,#N/A
+Armani Smith,sa918911,23
+Gilberto Jimenez,sa3005507,21
+Franklin Labour,sa916848,24
+Darell Hernaiz,sa3011309,20
+Michael Helman,sa3008280,26
+Beau Brundage,sa3008246,25
+Kyren Paris,sa3011768,20
+Jan Mercado,sa3005152,22
+Jose Alvarez,sa3003377,22
+Aaron Vukovich,sa3014525,20
+Andres Guerra,sa873330,25
+Wil Dalton,sa3010273,24
+Micah Pries,sa3014830,24
+Eduardo Valencia,sa3006622,22
+Wander Javier,sa917168,23
+Caleb Knight,sa3008279,26
+Keyber Rodriguez,sa3005488,21
+Drew Butera,3411,38
+Christopher Burgess,sa3011310,25
+Michael Siani,sa3008182,22
+Gregory Rogers,sa658668,#N/A
+Nicolas Torres,sa3002711,22
+Jacob Hurtubise,sa3014820,24
+Colten Keith,sa3014474,20
+Anthony Prato,sa1052903,24
+Isaias Quiroz,sa829275,25
+Erich Weiss,sa737930,#N/A
+Hansel Moreno,sa833676,#N/A
+Dylan Shockley,sa1170874,25
+Brenton Doyle,sa3009965,24
+Jose Acosta,sa3006187,22
+Osvaldo Duarte,sa828299,26
+Lucas Ritter,sa3009878,25
+Matthew Gorski,sa3010399,24
+Randy Florentino,sa3005529,21
+Emilio Bonifacio,4054,37
+Victor Mesa,sa3010700,20
+Pedro Martinez,sa3005795,21
+Justin Connell,sa3004884,23
+Gorkys Hernandez,4146,#N/A
+Rubendy Jaquez,sa917022,23
+Luis Mieses,sa3003274,22
+Michael Sandle,sa3017048,23
+Todd Czinege,sa873611,27
+Zachary Ching,sa1169881,25
+DaShawn Keirsey,sa3007301,25
+Yasmany Tomas,17171,31
+Michael Osinski,sa3004298,26
+Alexander Destino,sa3004031,26
+Ripken Reyes,sa3010159,25
+Oluwademilade Orimoloye,sa875027,25
+Christian Cairo,sa3010028,21
+Andres Alvarez,sa3010710,25
+Bryant Quijada,sa3004882,22
+Riley Delgado,sa3004934,27
+Michael Busby,sa915789,26
+Rodolfo Bone,sa3006424,22
+Brandon Wagner,sa738979,26
+Martin Bechina,sa1053075,25
+Yadiel Rivera,11863,30
+Scott Schebler,12225,31
+Andrew Swift,sa3017281,23
+Hunter Hearn,sa3010591,25
+Mark Reynolds,7619,#N/A
+Victor Torres,sa3010597,21
+Jacob Nottingham,16448,27
+Ryan Reynolds,sa3010849,24
+Tyler Gentry,sa3014485,23
+Peter Bourjos,2578,#N/A
+Hunter Pence,8252,39
+Kevin Kendall,sa3017212,23
+Martin Prado,3312,#N/A
+Billy Fleming,sa836204,#N/A
+Sam McWilliams,sa3008053,24
+Kyle Wilkie,sa3010270,24
+Victor De Hoyos,sa930082,24
+Wilfred Astudillo,sa3003236,22
+Coby Mayo,sa3014479,20
+Austin Beck,sa3004055,23
+Edgardo Rodriguez,sa3005532,21
+Jake MacKenzie,sa3015017,23
+Herbert Iser,sa3010679,24
+Jaylen Palmer,sa3008297,21
+Wladimir Chalo,sa3002863,22
+Madison Stokes,sa3008076,26
+Garrett Hiott,sa3009972,24
+Marcos Gonzalez,sa3003311,22
+Thomas Saggese,sa3014503,20
+Jonathan Robertson,sa3009879,24
+Alexfri Planez,sa3005515,20
+Francisco Del Valle,sa918323,23
+Blake Trahan,17588,#N/A
+Alan Marrero,sa918102,24
+Humberto Arteaga,13595,28
+Peter Halpin,sa3014461,20
+Jacob Washer,sa3011306,26
+Skyler Weber,sa918416,#N/A
+Michael Berglund,sa3007016,24
+Kyle McPherson,sa3004696,#N/A
+Bryant Packard,sa3010590,24
+Terrance Gore,13658,31
+Zachary Daniels,sa3014935,23
+Gresuan Silverio,sa917004,23
+Nathaniel Easley,sa919164,#N/A
+Eduardo Silva,sa3007942,#N/A
+Trei Cruz,sa3014420,23
+Carter Aldrete,sa3010008,24
+Giovanni Brusa,sa659068,#N/A
+Davis Liput,sa3008141,26
+Zachary Cook,sa3015090,24
+Yohendrick Pinango,sa3009539,20
+Jose Torres,sa3017396,22
+Freudis Nova,sa3003195,22
+Johnathan Rodriguez,sa3004147,22
+Tyler Esplin,sa3004727,22
+Ceddanne Rafaela,sa3005581,21
+Daniel Millwee,sa3010281,26
+Johnny Field,15048,#N/A
+Javier Valdes,sa3010902,23
+Matthew Sanders,sa3006679,#N/A
+Zachary Houchins,sa599235,#N/A
+Gleyvin Pineda,sa872540,#N/A
+Victor Ruiz,sa3004150,22
+Luis Curbelo,sa918086,24
+Brycelin Ball,sa1170451,23
+Hunter Markwardt,sa3010602,24
+Scott Burcham,sa875782,29
+Johan Lopez,sa3003228,21
+Kobe Kato,sa3017052,23
+Matthew Lugo,sa1169598,21
+Luis Santos,sa3005080,22
+Ronaiker Palma,sa3005624,22
+John Hatch,sa3005233,28
+Jordyn Adams,sa3008032,22
+Tirso Ornelas,sa3004048,22
+Alexander Binelas,sa3017044,22
+Alex Hall,sa3007023,23
+James Glowenke,sa3014548,23
+Cristopher Cespedes,sa872783,24
+Xavier Valentin,sa3008144,21
+Chia Lin,sa918343,25
+Salvatore Gozzo,sa3010708,24
+Caleb Roberts,sa3016959,22
+Orlando Garcia,sa915658,#N/A
+Christopher Torres,sa872538,24
+Bennett Hostetler,sa3017120,24
+Robert Ellis,sa3014816,24
+Omar Hernandez,sa3010155,20
+Joseph DeCarlo,sa657935,28
+Jeremiah Jackson,sa3007740,22
+Carlos Reina,sa917054,23
+Gavin Stupienski,sa913367,28
+Garrett Wolforth,sa876111,24
+Jonathan Laureano,sa918576,#N/A
+Ramses Malave,sa3006428,21
+Edwin Mateo,sa3003364,23
+Matt O'Neill,sa1170279,24
+Anthony Graffanino,sa3008030,24
+Alberto Rodriguez,sa3005603,21
+Joshua Rolette,sa875776,26
+Addison Barger,sa3006910,22
+Galli Cribbs,sa708444,29
+Angel Lopez,sa3004167,25
+Kacy Clemens,sa738624,#N/A
+Cole Daily,sa3006713,25
+Julian Escobedo,sa3010030,24
+Maikol Escotto,sa3008878,20
+Deury Carrasco,sa3003330,22
+Heriberto Hernandez,sa3005630,22
+Brady Whalen,sa918278,24
+Raynel Delgado,sa3007288,22
+Diego Hernandez,sa3005759,21
+Simon Muzziotti,sa917376,23
+Jhon Torres,sa3003233,22
+Jordan Brewer,sa3011737,24
+Jack Reinheimer,14938,29
+Daniel Edwards,sa3009866,25
+Justyn-Henry Malloy,sa3017073,22
+Ynmanol Marinez,sa3005716,21
+Jack Sundberg,sa913277,#N/A
+Drew Campbell,sa3011264,24
+Grant Little,sa3008031,24
+Dariel Lopez,sa3008901,20
+Jackson Glenn,sa3017478,24
+Roberto Chirinos,sa3005484,21
+Devan Stewart,sa3005181,23
+Victor Acosta,sa736917,#N/A
+Tanner Murray,sa3016805,22
+Aaron Bracho,sa3010018,21
+Casey Schmitt,sa3014484,23
+Edgar Quero,sa3015239,19
+Keon Broxton,9253,32
+Yohander Martinez,sa3008775,20
+Jose Guzman,sa3005601,21
+Tyler McDonough,sa3016869,23
+Austen Wade,sa3004930,26
+Andrew Martinez,sa3010691,25
+Vito Friscia,sa3010712,25
+Cameron Barstad,sa3011350,21
+Zachary Ashford,sa3009886,25
+Kaleo Johnson,sa3006935,25
+Frederick Cuevas,sa872550,24
+Kevin Santa,sa3004252,#N/A
+Sebastian Espino,sa3003347,22
+Angel Martinez,sa3008762,20
+Wilmer Perez,sa3002634,24
+Grayson Byrd,sa3010387,26
+Justin Lavey,sa3014817,24
+Joseph Vranesh,sa1170006,24
+Braxton Lee,16839,28
+Harvin Mendoza,sa916997,23
+Eddy Diaz,sa3004979,22
+Zachary Veen,sa3014516,20
+Thomas Francisco,sa3016999,23
+Johnny Adams,sa873596,#N/A
+Alexander Mojica,sa3008889,19
+Johan Cruz,sa736621,26
+Brayan Morales,sa918374,#N/A
+Eric Rivera,sa1115765,24
+Kevin Josephina,sa830120,25
+Nicholas Quintana,sa3010390,24
+Brandon Montgomery,sa918622,#N/A
+Kirvin Moesquit,sa829715,#N/A
+Charlie Harris,sa3014888,25
+Lamar Sparks,sa3004932,23
+James Herron,sa3008183,25
+Darryl Collins,sa3010154,20
+Omar Meregildo,sa872765,24
+Adam Rosales,9682,#N/A
+Nickolas Thurman,sa919821,#N/A
+Aaron Sabato,sa3014494,23
+Aldenis Sanchez,sa3003222,23
+Yeyson Yrizarri,sa828293,#N/A
+Allan Berrios,sa3011153,24
+Jacob Slaughter,sa3007871,25
+Cody Milligan,sa1169818,23
+Thomas Jew,sa3015071,24
+Rece Hinds,sa1169587,21
+Tate Blackman,sa829257,#N/A
+Ricky Aracena,sa877365,24
+Javier D'Orazio,sa3008876,20
+Tyler Hill,sa829481,#N/A
+Ghordy Santos,sa3003331,22
+Jasson Dominguez,sa3014696,19
+Ricardo Toro,sa3005904,21
+Logan Wyatt,sa3011259,24
+Jared Carr,sa3017343,23
+Terry Bowens,sa3015107,24
+Nasim Nunez,sa3010695,21
+Roblin Heredia,sa3009341,19
+Christian Williams,sa829560,#N/A
+Yeltsin Gudino,sa830208,#N/A
+Zachary Rutherford,sa915797,#N/A
+Kevin Maitan,sa969045,22
+Tyrell Schofield-Sam,sa3011501,21
+James Parker,sa3016859,22
+Kenedy Corona,sa3009845,22
+Alvaro Rubalcaba,sa3007882,#N/A
+Edmond Americaan,sa3008341,25
+Joshwan Wright,sa3005519,21
+William Holland,sa3011204,24
+Kenneth Betancourt,sa3003350,22
+Dalvy Rosario,sa3005712,21
+Lawrence Butler,sa3006873,21
+Josue Huma,sa3003379,22
+Daniel Ozoria,sa3003218,21
+Carlos Rodriguez,sa3005478,21
+Connor Norby,sa3017019,22
+Ariel Sandoval,sa736970,#N/A
+Spencer Griffin,sa3005063,25
+Carlos Mendoza,sa3008944,22
+Nicholas Ready,sa3009892,25
+William Wagner,sa3017079,23
+Steven Sensley,sa738492,26
+Telmito Agustin,sa828321,25
+Matthew Chamberlain,sa3014833,23
+Connor Hoover,sa3004061,25
+Jonathan Embry,sa1169879,25
+Aaron Schunk,sa3009957,24
+Ricardo Mendez,sa3004383,22
+Trevor Craport,sa3004260,#N/A
+Miguel Hiraldo,sa3005486,21
+Adrian Rondon,sa877519,23
+Lucas Wakamatsu,sa875259,#N/A
+James Lott,sa918408,24
+Thomas Jones,sa917968,24
+Tyler Durna,sa3007879,25
+Carl Chester,sa829813,26
+Lazaro Armenteros,sa969091,23
+Alison Quintero,sa3004266,22
+Axel Andueza,sa3002712,23
+Mason Janvrin,sa3010685,24
+Jordan Arruda,sa3010036,24
+Gabe Snyder,sa3006880,27
+Kevonte Mitchell,sa829059,#N/A
+Nathaniel Fassnacht,sa3010594,24
+Yorkislandy Alvarez,sa3009570,23
+Reinaldo Ilarraza,sa923239,23
+Trevor Schwecke,sa3009874,24
+Branden Fryman,sa3010853,24
+Francisco Acuna,sa3003291,22
+Joshua Baldwin,sa3004751,#N/A
+Eduardo Nunez,6848,35
+Kendall Simmons,sa3006867,22
+Jonathan Guzman,sa917127,22
+Ismael Alcantara,sa3002862,23
+Manuel Garcia,sa3006202,22
+Luis Guerrero,sa3010713,23
+Jerry Downs,sa875630,#N/A
+Jake Ortega,sa3010402,25
+Tyler Tolbert,sa3010337,24
+Herard Gonzalez,sa3005750,21
+Robert Fennell,sa3007100,#N/A
+Riley Tirotta,sa3017078,23
+Eric Rodriguez,sa185525,23
+Chad McClanahan,sa918209,24
+Bradlee Beesley,sa3015097,24
+Reginald Pruitt,sa875404,25
+Tyler Keenan,sa3014497,23
+Ryan Bliss,sa3016951,22
+Alexis Pantoja,sa829182,26
+Jordy Barley,sa3004148,22
+Daniel Mateo,sa3010886,20
+Jacob Ring,sa918728,#N/A
+Jack Herman,sa3007877,22
+Cooper Bowman,sa3016966,22
+William Jordan,sa3017214,23
+Jordan Rodgers,sa3002874,#N/A
+Brandon White,sa3010011,24
+Mitch Reeves,sa3004137,#N/A
+Bruce Yari,sa918522,#N/A
+Osvaldo Tovalin,sa3016927,22
+Jean Carmona,sa3003340,22
+Sean Kazmar,7349,37
+Elvis Peralta,sa1170420,25
+Kennie Taylor,sa1169940,25
+Cade Bunnell,sa3010702,25
+Ronaldo Urdaneta,sa917292,23
+Noah Martin,sa3014524,23
+Alexander Ramirez,sa3014695,19
+Je'Von Ward,sa3004969,22
+Nicholas Schnell,sa3007639,22
+Cristopher Navarro,sa917065,23
+Alfred Lewis,sa3015014,24
+Ryan Anderson,sa3006933,26
+Roman Ruiz,sa3005546,21
+Jesus Feliz,sa3002624,22
+Javeyan Williams,sa3010019,25
+Jose Tello,sa873350,24
+Kingston Liniak,sa3007020,22
+Alexander Campos,sa3002852,22
+Anthony Jimenez,sa826672,#N/A
+Paul Witt,sa3014949,24
+Brainer Bonaci,sa3008836,19
+Jase Bowen,sa3011267,21
+Matthew Dyer,sa3014883,23
+Matthew Acosta,sa3009870,24
+Mariel Bautista,sa872535,24
+Chase Murray,sa1115500,24
+Elijah Greene,sa3014836,24
+Jose Salas,sa3014690,19
+Nick Ames,sa3006919,#N/A
+Andrew Moritz,sa3007054,25
+Garrison Schwartz,sa3003956,26
+Trent Tingelstad,sa3009896,24
+Caberea Weaver,sa3006866,22
+Tyler Callihan,sa1169610,22
+Kyle Heidt,sa827195,#N/A
+Corey Joyce,sa3010596,23
+Quentin Holmes,sa3004776,22
+Yorlis Rodriguez,sa3007299,22
+Mack Chambers,sa3016919,22
+Patrick McInerney,sa3004078,#N/A
+Leugim Castillo,sa3005128,22
+Jarryd Dale,sa3007022,21
+Ethan Murray,sa3017051,22
+Johnny Aiello,sa3007012,25
+Jose Tortolero,sa3002708,22
+Alexander Hernandez,sa3002696,23
+Ethan Hearn,sa3011502,21
+Abiezel Ramirez,sa3003282,22
+Ryan Ripken,sa658502,28
+Robert Henry,sa915595,#N/A
+Francinel Martina,sa3010898,24
+Cade Harris,sa3006661,25
+Max Smith,sa1170615,25
+Carlos Machado,sa872756,24
+Beau Philip,sa1169595,23
+Reynaldo Rivera,sa918552,25
+Jose Ramos,sa3008845,21
+Gage Hughes,sa3007311,22
+Yeiner Fernandez,sa3015182,19
+Kevin Made,sa3014679,19
+Freuddy Batista,sa3002866,22
+Jose King,sa917184,23
+Reyny Reyes,sa3003178,23
+Quin Cotton,sa3009872,24
+Michael Wielansky,sa3006730,25
+Jeremy Ydens,sa3010852,24
+Spencer Packard,sa3016803,24
+Brayan Buelvas,sa3008868,20
+Seamus Curran,sa875212,24
+Steward Berroa,sa3003276,23
+Alerick Soularie,sa3014436,22
+Samil Polanco,sa3006676,22
+Matt Cross,sa3007071,23
+Brantley Bell,sa875352,27
+Jagger Rusconi,sa875030,25
+Samuel Siani,sa3010704,21
+Liam Sabino,sa3007821,26
+Jacob Young,sa3017563,22
+Yeuris Ramirez,sa917291,23
+Juan Zabala,sa913717,22
+Yenci Pena,sa3003238,21
+Daniel Montano,sa917068,23
+Jawuan Harris,sa3007049,25
+Bladimir Restituyo,sa3006621,20
+Ryan Goins,9807,34
+Cesar Izturis,sa3002847,22
+Junior Perez,sa3005744,20
+Reece Hampton,sa3007055,25
+Antonio Pinero,sa917079,23
+Yoandy Rea,sa3006224,22
+Derwin Barreto,sa3005522,21
+Marcos Rivera,sa872509,25
+Leonard Jones,sa3014840,23
+William Bradshaw,sa3007031,24
+Travis Moniot,sa876158,25
+Kelvin Alarcon,sa917142,23
+Dariel Gomez,sa872729,25
+Grant Lavigne,sa3007743,22
+Wilmer Reyes,sa917118,24
+Braulio Vasquez,sa924858,23
+Kevin Strohschein,sa3010859,24
+Nicholas Yarnall,sa918978,#N/A
+Lazaro Leal,sa3008940,25
+Michael Burks,sa3007004,25
+Lukas Morgan,sa3006683,26
+Calvin Conley,sa3017080,22
+Landon Stephens,sa3014884,24
+Sahid Valenzuela,sa3014882,24
+Raysheandall Michel,sa877018,24
+Federico Polanco,sa3005571,21
+Kyle MacDonald,sa1170553,26
+Cristian Inoa,sa917277,22
+Joseph Naranjo,sa3010025,21
+Andrew Shaps,sa3008430,26
+Nicholas Decker,sa3008590,22
+Ezequiel Pagan,sa3007975,21
+Arol Vera,sa3014687,19
+Brandon Bossard,sa3015050,25
+Ronny Brito,sa917329,23
+Alexander Ovalles,sa3005781,21
+Carlos Irigoyen,sa3005745,21
+Quincy Hamilton,sa3017215,24
+D'Shawn Knowles,sa3006889,21
+Blake Tiberi,sa874235,27
+Ruben Santana,sa917167,24
+Guillermo Quintana,sa3005916,#N/A
+John Rhodes,sa3017162,21
+Joseph Suozzi,sa3015106,24
+Kyle Kasser,sa3006916,26
+James Titus,sa1052965,24
+Dallas Carroll,sa913370,#N/A
+Rayner Santana,sa3008897,#N/A
+Cody Grosse,sa3010052,25
+Brandon Leyton,sa917309,23
+Jordan Wren,sa3002843,#N/A
+Jelfry Marte,sa3006886,21
+Victor Planchart,sa3005555,#N/A
+Patrick Romeri,sa3010723,21
+Angel Aponte,sa3003319,22
+Eric Wagaman,sa3002875,24
+Tanner Dodson,sa3007008,25
+Michael Emodi,sa3007318,26
+Francisco Hernandez,sa3004942,22
+Michael Salvatore,sa3011254,25
+Wilkin Grullon,sa3006222,22
+Shervyen Newton,sa917119,23
+Jacob Vogel,sa3014473,20
+William Matthiessen,sa1116023,24
+Tra'mayne Holmes,sa829468,25
+Joshua Mears,sa3010162,21
+Noah Campbell,sa3014878,23
+Cristian Gonzalez,sa3008771,20
+Justin Williams,sa3017076,22
+William Robertson,sa3004294,#N/A
+Ramon Marcelino,sa828425,#N/A
+Benjamin Malgeri,sa3016975,22
+John Head,sa3010889,21
+Alvaro Gonzalez,sa3005715,21
+Garrett Saunders,sa3010909,25
+Cody Orr,sa3014892,23
+Ranfy Adon,sa872525,24
+Corbin Williams,sa3007324,24
+John Walters,sa3014890,24
+Yeison Coca,sa917075,23
+Patrick McColl,sa3014829,25
+Warming Bernabel,sa3008761,20
+Pedro Garcia,sa3005762,21
+Juan Loyo,sa3005948,23
+Tyler Osik,sa3010017,25
+Julio Carreras,sa3005598,22
+Tadeo Osuna,sa3015127,19
+Marcus Chiu,sa3004060,25
+Abdiel Layer,sa3007291,23
+Franklin Soto,sa3003328,22
+Daniel Rivero,sa3005525,21
+Jefferson Mendoza,sa3005713,#N/A
+Jose Sanchez,sa3004382,21
+Dasan Brown,sa3011717,20
+Agustin Ramirez,sa3009276,20
+Tyler Flores,sa3007335,26
+Jose Zapata,sa3006179,21
+Osmy Gregorio,sa917348,24
+Anyesber Sivira,sa3003301,#N/A
+Deyvison De Los Santos,sa3015168,19
+Lucas Dunn,sa3016820,23
+Anfernee Grier,sa738988,#N/A
+Joseph Aeilts,sa3009895,24
+LT Struble,sa3010910,25
+Richard Paz,sa3005928,#N/A
+Jose Mujica,sa3006525,#N/A
+James Kerr,sa3011380,25
+Juan Querecuto,sa3005721,21
+Elly De La Cruz,sa3009289,20
+Danuerys De La Cruz,sa3007059,21
+Mateo Gil,sa3007050,21
+Antoni Flores,sa3005489,21
+Cody Morissette,sa3017158,22
+Timothy Tawa,sa3016970,23
+Devin Davis,sa875805,#N/A
+Enmanuel Pire,sa3005562,#N/A
+Jorge Burgos,sa3008929,20
+Willie Carter,sa1170876,25
+Keaton Greenwalt,sa3010714,24
+Alexander McGarry,sa3015015,24
+Misael Urbina,sa3008743,20
+Viandel Pena,sa3005775,21
+Donivan Williams,sa3004950,22
+Angel Solarte,sa3007037,21
+Keoni Cavaco,sa3010706,21
+Grant McCray,sa3010042,21
+Ronaldo Flores,sa3009551,20
+Darlyn Del Villar,sa3005724,21
+Dean Miller,sa1056110,25
+Justin Guerrera,sa3017082,22
+Charlis Aquino,sa3008895,20
+Benjamin Cowles,sa3016976,22
+Elian Miranda,sa3014947,23
+Jesse Medrano,sa3004697,#N/A
+Kwan Adkins,sa3007000,25
+Carter Williams,sa3015126,24
+Benjamin Pelletier,sa876134,23
+Milan Tolentino,sa3014544,20
+Edward Howard,sa3014540,20
+Wander Valdez,sa3002626,22
+Kole Enright,sa917991,24
+Junior Gonzalez,sa3006221,22
+Jose Marquez,sa873155,24
+Efrenyer Narvaez,sa3008885,#N/A
+Christopher Pasteur,sa3008138,26
+Jordan Nwogu,sa3014530,23
+Ricardo Cubillan,sa917089,24
+Imanol Vargas,sa3004972,24
+Zackary Kone,sa3008293,25
+Carson Matthews,sa3016873,22
+Pedro Gonzalez,sa872568,24
+Nelson Quiroz,sa3009565,#N/A
+Hugo Cardona,sa3003339,22
+Dexter Neal,sa876087,25
+Wilber Sanchez,sa3008941,20
+Evan Alexander,sa918444,24
+Jadiel Sanchez,sa3011629,21
+Eduardo Garcia,sa3008751,19
+Jonathan Sierra,sa917303,23
+Aaron Shackelford,sa1169950,25
+Marcos Brito,sa3003183,22
+Jonathan Willems,sa917150,23
+Flemin Bautista,sa3005940,22
+Shane Billings,sa918292,#N/A
+Darryl Lepre,sa3010150,25
+Brandon McIlwain,sa3015076,24
+Gabriel Rodriguez,sa3008744,20
+Yordys Valdes,sa3010037,20
+Shawn Goosenberg,sa3017116,22
+Jacob Teter,sa3017016,23
+Tevin Mitchell,sa3011157,25
+Felix Familia,sa3003213,23
+Anthony Garcia,sa3005924,21
+Sean Mendoza,sa3003312,22
+Daury Arias,sa3015685,20
+Miguel Jerez,sa917754,24
+Ernesto Martinez,sa3003173,23
+Robert Thorburn,sa3004240,#N/A
+Jacob Boone,sa3014881,23
+Enrique Valdez,sa3005568,21
+Oscar Gonzalez,sa3005776,21
+John Steiger,sa3014889,23
+Fabian Pertuz,sa3005500,21
+Luis Diaz,sa3002846,22
+James Beard,sa3010038,21
+Madison Santos,sa3006206,22
+Eric Jenkins,sa874775,#N/A
+Jeremy De La Rosa,sa3011329,20
+Debby Santana,sa3003210,21
+Jacob Wetzel,sa3015057,22
+Carlos Paraguate,sa3005757,21
+Jack Stronach,sa3010271,24
+Cameron Shepherd,sa3014879,24
+Bryan Torres,sa3002858,22
+Ricky Martinez,sa3009885,24
+Jose Rivas,sa3005561,21
+Kevin Williams,sa3002725,#N/A
+Lester Madden,sa3008603,23
+Malcom Quintero,sa3007827,#N/A
+Angel Maita,sa3005556,21
+Cesar Berbesi,sa3008740,22
+Brett Rodriguez,sa3014831,24
+Kervin Pichardo,sa3011260,20
+Kevin Richards,sa3004880,22
+Jose Sibrian,sa917196,23
+Charles McConnell,sa3006716,#N/A
+Cristian Santana,sa3015697,18
+Jack Yalowitz,sa3009887,25
+Leodany Perez,sa3008956,22
+Daniel Oriente,sa3014943,24
+Joseph Genord,sa3009867,25
+Ryan Ramiz,sa3006924,#N/A
+Juan Negret,sa3003430,23
+Matt Burch,sa3014946,24
+Damon Gladney,sa3010043,20
+Eric Jones,sa3011883,26
+Wladimir Galindo,sa826652,#N/A
+Jordan Pearce,sa915690,#N/A
+Jared Alvarez-Lopez,sa3011560,#N/A
+Gerson Molina,sa3008657,26
+Coleman Brannen,sa3004616,23
+Juanrael Paulino,sa3008190,24
+Yeison Santana,sa3005730,21
+Daniel Bautista,sa3005602,21
+Edison Mora,sa3007315,21
+Luke Reynolds,sa3008004,#N/A
+Tyler Black,sa3017623,21
+Ethan Wilson,sa3017329,22
+Ryder Green,sa3007875,22
+Osiris Johnson,sa3008110,21
+Cody Birdsong,sa1170766,25
+Pedro Ramirez,sa3015834,18
+Dominic D'Alessandro,sa3010900,25
+Eugene Helder,sa826786,#N/A
+Jacob Gonzalez,sa3004691,24
+Julio De La Cruz,sa3003224,21
+Robert Farrar,sa3004126,#N/A
+Frandy Almonte,sa3015808,18
+Edgar Made,sa3003244,22
+Albert Lee,sa3010146,25
+Baron Radcliff,sa3014424,23
+Tanner Allen,sa3016854,24
+Robert Puason,sa3014697,19
+Wilderd Patino,sa3007874,20
+Cameron Baranek,sa3004281,#N/A
+Juan De Leon,sa872565,24
+Ernny Ordonez,sa1170897,23
+Keithron Moss,sa3005599,20
+Jhon Solarte,sa3005510,21
+Patrick Merino,sa3011119,23
+Harrison Freed,sa3010041,24
+Korey Holland,sa3008249,22
+Sean Guilbe,sa3008185,22
+Gustavo Polanco,sa871442,25
+Yeison Morrobel,sa3015720,18
+Patrick Morris,sa3005037,23
+Bryson Horne,sa3014891,23
+Najee Gaskins,sa3011262,24
+Luis Toribio,sa3005541,21
+Sheng-Ping Chen,sa3014837,21
+Odalys Peguero,sa3015626,19
+Alan Mejia,sa3008420,20
+Spencer Brickhouse,sa1052762,24
+Kenyon Yovan,sa3016839,24
+Hunter Hargrove,sa3004039,#N/A
+Tanner Murphy,sa1170052,24
+William Cook,sa3017021,23
+Burle Dixon,sa1170041,23
+Edwin Yon,sa872464,23
+Jean Encarnacion,sa921562,24
+Jonatan Machado,sa924310,23
+Sauryn Lao,sa917331,22
+Gavin Jones,sa3010049,23
+Hosea Nelson,sa918155,25
+Drevian Williams-Nelson,sa3007829,22
+Francisco Fajardo,sa3008898,22
+Javier Sanoja,sa3015564,19
+Victor Acosta,sa3015705,18
+Luis Almanzar,sa970515,22
+Brady McConnell,sa3010331,24
+Justin Ammons,sa3011664,24
+Randolph Gassaway,sa738195,#N/A
+Samuel Zavala,sa3015718,17
+Luke Bandy,sa3010149,24
+Trevor Kehe,sa3010856,25
+Pedro Diaz,sa3005056,24
+Rafael Franco,sa3007509,21
+Benjamin Troike,sa3011541,24
+Jean Ramirez,sa3008452,21
+Caleb Scires,sa918832,23
+Johnabiell Laureano,sa3005787,21
+Ulrich Bojarski,sa3004381,23
+Luis Verdugo,sa3006888,21
+Sergio Campana,sa3009834,20
+Kenen Irizarry,sa3007310,22
+Cory Wood,sa3010330,25
+Cole Stobbe,sa917956,24
+Chad Stevens,sa3017040,23
+Adrian Pinto,sa3015542,19
+Max Ferguson,sa3016819,22
+Cole Cummings,sa3016830,24
+Carlos De La Cruz,sa3006903,22
+Matthew Mervis,sa3015051,24
+Bryce Bush,sa3008278,22
+Jose Verrier,sa3006882,24
+Lucas Tancas,sa3004290,#N/A
+Nick Anderson,sa3015115,25
+Angeudis Santos,sa3009794,20
+Benyamin Bailey,sa3009343,20
+Reniel Ozuna,sa917151,23
+Adinso Reyes,sa3008750,20
+Aldrich De Jongh,sa3007974,23
+Chase Krogman,sa3011615,21
+Warren Saunders,sa3011405,23
+Jorge Ruiz,sa3015873,18
+Ryan Kirby,sa739014,#N/A
+Dairon Cuevas,sa3008792,20
+Esney Chacon,sa3003267,22
+Daniel Castillo,sa3005545,21
+Jacob Randa,sa3010033,23
+Alexander Ramirez,sa3008757,19
+Jose Bonilla,sa3011404,20
+Hedbert Perez,sa3014692,19
+Austin Hendrick,sa3014521,21
+Victor Mascai,sa3005754,21
+Brandon Hughes,sa915618,26
+Ryan Holgate,sa3016998,22
+Keiderson Pavon,sa3015811,18
+Yiddi Cappe,sa3015515,19
+Willmer De La Cruz,sa3015624,19
+Jose Reyes,sa3005490,21
+Willie Garry,sa3007065,22
+Javeon Cody,sa1169970,22
+Christopher Meyers,sa3016956,23
+Danyer Cueva,sa3015725,18
+Chase Chambers,sa3006921,#N/A
+Onil Pena,sa828232,#N/A
+Colin Simpson,sa1159681,25
+Christian Robinson,sa3017074,22
+Manuel Beltre,sa3015710,18
+Neyfy Castillo,sa3005544,21
+Brandon Parker,sa1169878,23
+Andrew Gill,sa3014988,24
+Felix Reyes,sa3015688,21
+Diowill Burgos,sa3005740,21
+Saul Garza,sa3015225,24
+Jamari Baylor,sa3011446,21
+Cole Kleszcz,sa1056328,25
+MacKenzie Mueller,sa3014824,24
+Tyler Wyatt,sa3010006,25
+Angel Rojas,sa3005578,21
+William Bartlett,sa3010032,21
+Jose Curpa,sa3002703,22
+Rixon Wingrove,sa3007298,22
+Omar De Los Santos,sa3008938,22
+Carlos Luis,sa3002860,22
+Gionti Turner,sa3007326,21
+Wendell Marrero,sa3010044,21
+Harrison Ray,sa3014815,24
+Micah Bello,sa3006883,21
+Andres Mesa,sa3015598,19
+Dyron Campos,sa3008937,21
+Owen Caissie,sa3014465,19
+Ronier Lascarro,sa3005512,#N/A
+Erick Brito,sa3011753,20
+Dayro Perez,sa3009299,20
+Julio Enrique,sa3005503,22
+Carlos Pelegrin,sa3015238,22
+Ronny Rojas,sa3005530,20
+Jasiah Dixon,sa3011590,20
+Braian Fernandez,sa3005751,23
+Zachary Biermann,sa3010158,25
+Obie Ricumstrict,sa3004282,23
+John Heyer,sa3007042,25
+Terriez Fuller,sa3004265,23
+Jesus Bolivar,sa3008923,20
+Abel Bastidas,sa3015709,18
+Starlin Aguilar,sa3015722,18
+Yorvis Torrealba,sa3010343,#N/A
+Amador Arias,sa3003216,21
+Justin Washington,sa3011205,25
+Ranser Amador,sa3003192,23
+Jose Bermudez,sa916720,24
+Milkar Perez,sa3008883,20
+Miguel Perez,sa3004053,21
+Wilmin Candelario,sa3008834,#N/A
+Deivis Nadal,sa3008879,20
+Antonio Cabello,sa3005600,21
+Misael Gonzalez,sa3010164,21
+Leandro Emiliani,sa3006897,22
+Lency Delgado,sa3006913,23
+Adonis Giron,sa3005719,21
+Michael Wilson,sa918332,24
+Junior Paniagua,sa3008875,#N/A
+Omar Martinez,sa3008573,20
+Willy Vasquez,sa3011821,20
+Connor Blair,sa3011382,24
+Jember Gutierrez,sa3003324,22
+Luis Baez,sa3005747,21
+Sean Reynolds,sa917966,24
+Jeferson Espinal,sa3008793,20
+Albert Inoa,sa3008948,20
+Sandry Hernandez,sa3015649,19
+Francis Grullon,sa3005927,#N/A
+Alexander Vargas,sa3008851,20
+Cade Cabbiness,sa3016855,24
+Ramon Mendoza,sa3007513,21
+George Bell,sa3003182,22
+Cristian More,sa3011589,20
+Brett Langhorne,sa3007064,26
+Robert Gonzalez,sa3005919,21
+Daiwer Castellanos,sa3007302,21
+Brenny Escanio,sa3015565,19
+Noelberth Romero,sa3008808,20
+Wilson Alvarez,sa916709,#N/A
+Andre Nnebe,sa3011588,24
+Franklin Linares,sa3009820,21
+Isaac De Leon,sa3008784,20
+Gabriel Gonzalez,sa3015723,18
+Stephen Paolini,sa3010720,21
+Nelson Gomez,sa873303,24
+Jimmy Mojica,sa3003260,22
+Tyler Hardman,sa3016955,23
+Luis Mendez,sa3015650,19
+Alisson Del Orbe,sa3009547,#N/A
+Dayan Frias,sa3008768,#N/A
+Juan Mora,sa3008469,#N/A
+Carlos Santiago,sa3005565,#N/A
+Leonardo Seminati,sa3008298,23
+Sander Mora,sa3006578,21
+Danny Lantigua,sa3005239,23
+Bladimir De La Rosa,sa3009331,20
+Otoniel Vallejo,sa3009339,20
+Anthony Espinoza,sa3008812,#N/A
+Claudio Finol,sa3003256,22
+Yoander Rivero,sa3008782,20
+Edgar Martinez,sa3005790,#N/A
+Yerjeni Perez,sa3003269,22
+Marcos Cabrera,sa3008890,20
+Alejandro Pie,sa3008754,20
+Eduardo Vaughan,sa3008810,20
+Hector Martinez,sa3002845,#N/A
+Anderson Comas,sa3003268,22
+Carlos Dominguez,sa3009191,22
+Ruben Ibarra,sa3017053,23
+Luis Tejeda,sa3008913,19
+Frank Veliz,sa3003257,22
+Jhoan Paulino,sa3005563,21
+Manuel Pena,sa3015715,18
+Darwin Baez,sa3005614,21
+Juan Jerez,sa3008892,20
+Ashton Creal,sa3010048,23
+Mason Berne,sa3007029,26
+Raimfer Salinas,sa3005597,21
+Hunter Bishop,sa3011413,24
+Juan Diaz,sa3008862,20
+Jalen Greer,sa3010340,20
+Moises Ramirez,sa3009296,20
+Martin Olivas,sa3005737,20
+Hans Montero,sa3016321,18
+Kona Quiggle,sa3010588,24
+Rayber Romero,sa3009316,20
+Albert Suarez,sa3002855,22
+Junior Melo,sa3003385,#N/A
+Jose De La Cruz,sa3008747,20
+Edwin Peralta,sa3006081,#N/A
+Rafael Morel,sa3009534,#N/A
+Jackson Coutts,sa3015081,23
+Logan Glass,sa3011614,#N/A
+Jose Sanabria,sa3015595,19
+Rubel Cespedes,sa3008953,21
+William Lugo,sa3010876,20
+Starlin Gill,sa3008737,22
+Luis Sena,sa3010885,20
+Arbert Cipion,sa3008006,22
+Brandon Hernandez,sa3009835,20
+Wilson Valdez,sa3005792,22
+Angel Gomez,sa3008854,21
+Edwin Rojas,sa3009317,#N/A
+Kea'von Edwards,sa3008109,24
+Jesus Parra,sa3008867,#N/A
+Luis Rodriguez,sa3005727,22
+Nelson Medina,sa3005549,21
+Erison Placencia,sa3011669,20
+Zion Bannister,sa3011828,#N/A
+Juan Brito,sa3009808,#N/A
+Jecorrah Arnold,sa3004508,23
+Omar Florentino,sa3008758,#N/A
+Glenallen Hill,sa3010335,21
+Garrett Frechette,sa3010636,21
+Christopher De La Cruz,sa3005777,21
+Guarner Dipre,sa3005793,21
+Aeverson Arteaga,sa3014707,19
+Yoneiry Acevedo,sa3005909,21
+Shane Sasaki,sa3011754,21
+Kelvin Pena,sa3008083,21
+Darlin Moquete,sa3005617,22
+Michel Triana,sa3014681,22
+Geraldo Quintero,sa3008942,20
+Dionys Vallejo,sa3007058,22
+Reidy Mercado,sa3005612,#N/A
+Teofilo Mendez,sa3008795,20
+Brenden Spillane,sa876159,25
+Yoelvis Sanchez,sa3008777,20
+Cesar Ortega,sa3008189,21
+Frank Hernandez,sa3015678,20
+Francisco Garcia,sa3015677,19
+Francisco Floyd,sa3008821,20
+Roilan Machandy,sa3011667,21
+Felix Negueis,sa3008739,21
+Ilvin Fernandez,sa3008815,#N/A
+Christopher Familia,sa3011776,22
+Kevin Alcantara,sa3008752,19
+Yovanny Cuevas,sa872518,#N/A
+Angel Geraldo,sa3008891,21
+Aiverson Rodriguez,sa3008824,#N/A
+Daniel Marte,sa3008781,20
+Eliezel Stevens,sa3005773,21
+Eddinson Paulino,sa3009538,19
+Alexander Suarez,sa3008915,#N/A
+Ricardo Balogh,sa3008835,19
+Jose Palma,sa3003411,23
+Gregory Guerrero,sa917296,23
+Frank Rodriguez,sa3009330,#N/A
+Jose Dilone,sa3008820,21
+Luis Rubio,sa3008797,20
+Lazaro Benitez,sa3008819,22
+Jean Pena,sa3006192,#N/A
+Cristhian Rodriguez,sa3008785,20
+Miguel Fabrizio,sa3005767,21
+Emmanuel Sanchez,sa3008909,21
+Elijah Tatis,sa3011507,#N/A
+Yhostin Chirinos,sa3005521,21
+Alberis Ferrer,sa3005584,#N/A
+Trevor Boone,sa3010336,24
+George Bell,sa3007067,#N/A
+Fidel Montero,sa3015856,18
+Marcus Lee Sang,sa3011445,21
+Luis Chevalier,sa3009641,#N/A
+Lizardo Ruiz,sa3008930,19
+Francisco Ortiz,sa3003419,#N/A
+Oneill Manzueta,sa3005942,21
+Pedro Mota,sa3008800,20
+Kevin Watson,sa3005151,23
+Gabriel Moncada,sa3008789,20
+Leandro Pineda,sa3008905,20
+Jean Perez,sa3011632,19
+Neyfi Marinez,sa3005931,#N/A
+Iverson Leonardo,sa3005766,20
+Glenn Santiago,sa3010341,21
+Junior Calderon,sa3008919,20
+Rainier Rivas,sa3005527,21
+Alvin Guzman,sa3008748,#N/A
+Roimer Bolivar,sa3003284,#N/A
+Daniel Montesino,sa3015721,18
+Michael Cooper,sa3004072,#N/A
+Sam Abbott,sa3004161,23
+Olivber Moreno,sa3005778,#N/A
+Dilan Rosario,sa3010165,#N/A
+Freddy Valdez,sa3009190,20
+Brandon Linares,sa3006182,21
+Norkis Marcos,sa3005575,21
+Darlin Guzman,sa3005619,21
+Joerlin De Los Santos,sa3005723,21
+Jhonny Melenciano,sa3008776,20
+Adonis Figuereo,sa3005758,21
+Alex Zapete,sa3008811,20
+Sebastian Almonte,sa3005509,#N/A
+Fadriel Cruz,sa3005476,21
+Randy Romero,sa3006185,22
+Hansel Otamendi,sa3009340,20
+Malvin Valdez,sa3015719,18
+Bryan Gonzalez,sa3008805,20
+Spencer Brown,sa3010724,22
+Arturo Guerrero,sa3005936,#N/A
+Cesar Aponte,sa3009312,19
+Rodolfo Nolasco,sa3008907,20
+Maicol Sosa,sa3003403,23
+Freddvil Chevez,sa3003413,22
+Craig Lewis,sa3010717,25
+Axel James,sa3008806,20
+Mishael Deson,sa3008828,19
+Skeiling Rodriguez,sa3005542,#N/A
+Jose Bonilla,sa3005528,21
+Yunior Garcia,sa3005570,#N/A
+Ricardo Castro,sa3005508,22
+Luis Montano,sa3003297,22
+Anthony Bumpass,sa1055770,#N/A
+Natanael Santana,sa3008950,#N/A
+Trent Deveaux,sa3006885,#N/A
+Stiven Acevedo,sa3008952,19
+Jaswel De Los Santos,sa3008838,#N/A
+Jose Berroa,sa3008896,20
+Jose Reina,sa3005911,21
+William Rivera,sa3007748,22
+Angel Basabe,sa3006432,21
+Gabriel Martinez,sa3008865,19
+Adanson Cruz,sa3005722,21
+Raul Beracierta,sa917116,23
+Fidel Castro,sa3003175,#N/A
+Eduardo Salazar,sa3005569,21
+Juan Batista,sa3005629,#N/A
+Davis Tavarez,sa3004271,23
+Gerard Ramos,sa3005536,21
+Joel Mendez,sa3015682,19
+Darlyn Montero,sa3009324,20
+Jorge Hurtado,sa3005749,21
+Wilfri Peralta,sa3005481,21
+Cesar Calderon,sa3009344,20
+Josue Cruz,sa3005577,21
+Rothaikeg Seijas,sa3008859,#N/A
+Junior Ortega,sa3008736,22
+Isaac Bellony,sa3009542,20
+Matthew Schmidt,sa3014877,25
+Fernando Diaz,sa3009338,20
+Stir Candelario,sa3005611,21
+Ronis Aybar,sa3011663,22
+Kevon Jackson,sa3007317,#N/A
+Andry Arias,sa3005735,22
+Patrick Hilson,sa3007048,#N/A
+Brandol Mezquita,sa3006201,20
+David Hollie,sa3007304,#N/A
+Willmert Paula,sa3008870,#N/A
+Omar Diaz,sa3008813,20
+Eduarqui Fernandez,sa3008749,#N/A
+Oswel Leones,sa3005945,#N/A
+Juan Guerrero,sa3008759,#N/A
+Cristian Heredia,sa3005731,21
+Darel Belen,sa3008939,22
+Endy Estrada,sa3008935,#N/A
+Arquimedes Cumana,sa3008576,22
+Yorbin Ceuta,sa956378,22
+Larry Ernesto,sa3005485,#N/A
+Jose Martinez,sa3006890,23
+Franrielis Bastardo,sa3008894,19
+Pierce Jones,sa3010338,21
+Walking Cabrera,sa3005240,#N/A
+Amell Brazoban,sa3008869,20
+Danny Diaz,sa3005483,21
+Felix Stevens,sa3008946,22
+Pedro Martinez,sa3005797,21
+Terence Doston,sa1170340,#N/A
+Yoan Bravo,sa3008829,20
+Diego Maican,sa3006564,#N/A
+Erys Bautista,sa3008846,#N/A
+Rainer Nunez,sa3005551,21
+Pedro Diaz,sa917465,23
+Junior Sanquintin,sa3010863,#N/A
+Kadon Morton,sa3010870,21
+Anthony Nunez,sa3010171,20
+Julio Carrion,sa3010015,#N/A
+Cole Zabowski,sa3010682,#N/A
+Jesus Chirinos,sa3005538,#N/A
+Mahki Backstrom,sa3011599,20
+Luis Silva,sa3005547,#N/A
+Yassel Pino,sa3010047,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
+,,#N/A
