@@ -5,7 +5,7 @@ st.set_page_config(layout = "wide")
 
 st.title("PROJECTIONS v2")
 topcol1, topcol2 = st.columns([1,3])
-page = topcol1.selectbox("Page",("All Players","Player Profile","Create Career"))
+page = topcol1.selectbox("Page",("All Players","Player Profile","Custom Career"))
 agelimit = 40
 if page == "All Players":
 
@@ -68,7 +68,7 @@ if page == "Player Profile":
     st.dataframe(pitchers.sort_values(by = "Age").style.format({"FIP":"{:.2f}","ERA":"{:.2f}","K/9":"{:.2f}","BB/9":"{:.2f}","HR/9":"{:.2f}","WAR":"{:.1f}","IP":"{:.0f}","SO":"{:.0f}","HR":"{:.0f}","BB":"{:.0f}"}),height = 800)
     st.download_button("Download as CSV",data = pitchers.to_csv(),file_name=name + ".csv")
 
-if page == "Create Career":
+if page == "Custom Career":
     la_bb = 3.25
     la_k = 8.75
     la_hr = 1.35
